@@ -5,23 +5,23 @@ A comprehensive web application for analyzing and visualizing genomic data, feat
 ## Dashboard Views
 
 ### Main Dashboard
-![Dashboard Home](./screenshots/Dashboard-home.png)
+<img src="./screenshots/Dashboard-home.png" alt="Dashboard Home" width="700"/>
 The main dashboard provides quick access to all analysis features and tools.
 
 ### Gene Expression Table
-![Gene Expression Table](./screenshots/Gene-Expression-Table.png)
+<img src="./screenshots/Gene-Expression-Table.png" alt="Gene Expression Table" width="700"/>
 Interactive table for viewing and filtering gene expression data, with advanced sorting and filtering capabilities.
 
 ### Heatmap Clustering
-![Heatmap View](./screenshots/heatmap-view.png)
+<img src="./screenshots/heatmap-view.png" alt="Heatmap View" width="700"/>
 Hierarchical clustering visualization with interactive features and customizable color schemes.
 
 ### Pathway Analysis
-![Pathway Analysis](./screenshots/pathway-analysis.png)
+<img src="./screenshots/pathway-analysis.png" alt="Pathway Analysis" width="700"/>
 Analyze enriched pathways and biological processes using multiple genomic tools.
 
 ### Top Expressed Genes
-![Top Expressed Genes](./screenshots/top-expressed-genes.png)
+<img src="./screenshots/op-expressed-genes.png" alt="Top Expressed Genes" width="700"/>
 Identify and analyze highly expressed genes with statistical significance.
 
 ## Features
