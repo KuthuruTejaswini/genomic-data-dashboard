@@ -1,6 +1,6 @@
 // src/frontend/src/components/TopExpressedGenes.js
 import React, { useState, useEffect } from 'react';
-import { BarChart2 } from 'lucide-react'; // If you're using lucide-react icons
+import { BarChart2 } from 'lucide-react'; 
 
 const TopExpressedGenes = () => {
   const [topExpressed, setTopExpressed] = useState(null);

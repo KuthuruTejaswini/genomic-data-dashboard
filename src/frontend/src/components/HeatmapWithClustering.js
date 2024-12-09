@@ -40,24 +40,21 @@ const HeatmapWithClustering = () => {
     // Clear previous SVG elements
     d3.select(heatmapRef.current).selectAll('*').remove();
 
-    // Substantially increased margins
     const margin = {
-      top: 200,     // Much larger top margin for sample labels
-      right: 100,   // Larger right margin
-      bottom: 80,   // Larger bottom margin
-      left: 250     // Much larger left margin for gene labels
+      top: 200,     
+      right: 100,  
+      bottom: 80,  
+      left: 250     
     };
     
-    // Significantly increased base dimensions
-    const width = 2400 - margin.left - margin.right;    // Much larger width
-    const height = 1800 - margin.top - margin.bottom;   // Much larger height
+    const width = 2400 - margin.left - margin.right;   
+    const height = 1800 - margin.top - margin.bottom;   
     
     const numGenes = data.genes.length;
     const numSamples = data.samples.length;
 
-    // Increased minimum cell sizes
-    const cellWidth = Math.max(12, width / numSamples);    // Larger minimum cell width
-    const cellHeight = Math.max(12, height / numGenes);    // Larger minimum cell height
+    const cellWidth = Math.max(12, width / numSamples);    
+    const cellHeight = Math.max(12, height / numGenes);   
 
     // Create SVG with larger viewBox
     const svg = d3.select(heatmapRef.current)
@@ -169,8 +166,8 @@ const HeatmapWithClustering = () => {
       .text(d => d);
 
     // Add color scale legend with larger dimensions
-    const legendWidth = 300;  // Increased legend width
-    const legendHeight = 30;  // Increased legend height
+    const legendWidth = 300;  
+    const legendHeight = 30;  
     
     const legendScale = d3.scaleLinear()
       .domain([-2, 2])
