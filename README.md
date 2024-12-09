@@ -2,6 +2,28 @@
 
 A comprehensive web application for analyzing and visualizing genomic data, featuring DESeq2 integration, interactive visualizations, and connections to major genomic analysis tools.
 
+## Dashboard Views
+
+### Main Dashboard
+![Dashboard Home](./screenshots/Dashboard-home.png)
+The main dashboard provides quick access to all analysis features and tools.
+
+### Gene Expression Table
+![Gene Expression Table](./screenshots/Gene-Expression-Table.png)
+Interactive table for viewing and filtering gene expression data, with advanced sorting and filtering capabilities.
+
+### Heatmap Clustering
+![Heatmap View](./screenshots/heatmap-view.png)
+Hierarchical clustering visualization with interactive features and customizable color schemes.
+
+### Pathway Analysis
+![Pathway Analysis](./screenshots/pathway-analysis.png)
+Analyze enriched pathways and biological processes using multiple genomic tools.
+
+### Top Expressed Genes
+![Top Expressed Genes](./screenshots/top-expressed-genes.png)
+Identify and analyze highly expressed genes with statistical significance.
+
 ## Features
 
 ### Data Analysis
