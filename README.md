@@ -21,7 +21,7 @@ Hierarchical clustering visualization with interactive features and customizable
 Analyze enriched pathways and biological processes using multiple genomic tools.
 
 ### Top Expressed Genes
-<img src="./screenshots/op-expressed-genes.png" alt="Top Expressed Genes" width="700"/>
+<img src="./screenshots/top-expressed-genes.png" alt="Top Expressed Genes" width="700"/>
 Identify and analyze highly expressed genes with statistical significance.
 
 ## Features
