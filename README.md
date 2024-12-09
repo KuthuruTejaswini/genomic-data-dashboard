@@ -208,7 +208,7 @@ Backend:
 
 ## Contact
 
-Your Name - ktejaswini2000@gmail.com
+Email - ktejaswini2000@gmail.com
 
 Project Link: [https://github.com/KuthuruTejaswini/genomic-data-dashboard](https://github.com/KuthuruTejaswini/genomic-data-dashboard)
 
