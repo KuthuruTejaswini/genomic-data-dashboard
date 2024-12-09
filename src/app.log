@@ -1,0 +1,1275 @@
+2024-11-01 14:27:57,931 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-01 14:27:57,931 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-11-01 14:28:09,969 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-01 14:28:09,983 - root - INFO - Filtered data shape: (500, 60)
+2024-11-01 14:28:10,009 - werkzeug - INFO - 127.0.0.1 - - [01/Nov/2024 14:28:10] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-01 14:28:10,148 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-01 14:28:10,158 - root - INFO - Filtered data shape: (500, 60)
+2024-11-01 14:28:10,190 - werkzeug - INFO - 127.0.0.1 - - [01/Nov/2024 14:28:10] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-01 14:31:06,054 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-01 14:31:06,065 - root - INFO - Filtered data shape: (500, 60)
+2024-11-01 14:31:06,089 - werkzeug - INFO - 127.0.0.1 - - [01/Nov/2024 14:31:06] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-01 14:31:06,246 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-01 14:31:06,257 - root - INFO - Filtered data shape: (500, 60)
+2024-11-01 14:31:06,284 - werkzeug - INFO - 127.0.0.1 - - [01/Nov/2024 14:31:06] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-01 14:31:12,173 - werkzeug - INFO - 127.0.0.1 - - [01/Nov/2024 14:31:12] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-01 14:31:12,176 - werkzeug - INFO - 127.0.0.1 - - [01/Nov/2024 14:31:12] "GET /api/data HTTP/1.1" 200 -
+2024-11-01 14:31:12,387 - werkzeug - INFO - 127.0.0.1 - - [01/Nov/2024 14:31:12] "GET /api/data HTTP/1.1" 200 -
+2024-11-01 14:31:12,848 - werkzeug - INFO - 127.0.0.1 - - [01/Nov/2024 14:31:12] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-01 14:39:07,603 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-01 14:39:07,619 - root - INFO - Filtered data shape: (500, 60)
+2024-11-01 14:39:07,648 - werkzeug - INFO - 127.0.0.1 - - [01/Nov/2024 14:39:07] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-01 14:39:07,784 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-01 14:39:07,794 - root - INFO - Filtered data shape: (500, 60)
+2024-11-01 14:39:07,866 - werkzeug - INFO - 127.0.0.1 - - [01/Nov/2024 14:39:07] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-01 14:42:58,866 - werkzeug - INFO - 127.0.0.1 - - [01/Nov/2024 14:42:58] "GET /api/top_expressed?top_n=10 HTTP/1.1" 200 -
+2024-11-01 14:42:59,030 - werkzeug - INFO - 127.0.0.1 - - [01/Nov/2024 14:42:59] "GET /api/top_expressed?top_n=10 HTTP/1.1" 200 -
+2024-11-01 14:43:14,443 - werkzeug - INFO - 127.0.0.1 - - [01/Nov/2024 14:43:14] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-01 14:43:14,446 - werkzeug - INFO - 127.0.0.1 - - [01/Nov/2024 14:43:14] "GET /api/data HTTP/1.1" 200 -
+2024-11-01 14:43:15,151 - werkzeug - INFO - 127.0.0.1 - - [01/Nov/2024 14:43:15] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-01 14:43:15,158 - werkzeug - INFO - 127.0.0.1 - - [01/Nov/2024 14:43:15] "GET /api/data HTTP/1.1" 200 -
+2024-11-01 21:45:11,915 - werkzeug - INFO - 127.0.0.1 - - [01/Nov/2024 21:45:11] "GET /api/data HTTP/1.1" 200 -
+2024-11-01 21:45:12,404 - werkzeug - INFO - 127.0.0.1 - - [01/Nov/2024 21:45:12] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-01 21:45:12,553 - werkzeug - INFO - 127.0.0.1 - - [01/Nov/2024 21:45:12] "GET /api/data HTTP/1.1" 200 -
+2024-11-01 21:45:13,088 - werkzeug - INFO - 127.0.0.1 - - [01/Nov/2024 21:45:13] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-04 12:05:32,835 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 12:05:32] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-04 12:05:32,851 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 12:05:32] "GET /api/data HTTP/1.1" 200 -
+2024-11-04 12:05:33,496 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 12:05:33] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-04 12:05:33,513 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 12:05:33] "GET /api/data HTTP/1.1" 200 -
+2024-11-04 12:05:36,800 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-04 12:05:36,823 - root - INFO - Filtered data shape: (500, 60)
+2024-11-04 12:05:36,863 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 12:05:36] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-04 12:05:37,005 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-04 12:05:37,018 - root - INFO - Filtered data shape: (500, 60)
+2024-11-04 12:05:37,044 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 12:05:37] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-04 12:10:39,807 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-04 12:10:39,830 - root - INFO - Filtered data shape: (500, 60)
+2024-11-04 12:10:39,866 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 12:10:39] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-04 12:10:40,062 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-04 12:10:40,073 - root - INFO - Filtered data shape: (500, 60)
+2024-11-04 12:10:40,099 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 12:10:40] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-04 12:11:22,706 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 12:11:22] "[33mGET /api/deseq2 HTTP/1.1[0m" 404 -
+2024-11-04 12:11:22,720 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 12:11:22] "[33mGET /api/deseq2 HTTP/1.1[0m" 404 -
+2024-11-04 12:11:29,772 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 12:11:29] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-04 12:11:29,781 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 12:11:29] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-04 12:11:29,813 - root - INFO - Significant genes to submit: ['WNT16', 'KLHL13', 'SLC7A2', 'ABCC8', 'TAC1', 'CACNA1G', 'SCN4A', 'TENM1', 'HHATL', 'NPC1L1', 'CLCA4', 'ATP1A2', 'MUSK', 'LRRC7', 'EFCAB1', 'MYOC', 'MYOM2', 'ARHGAP6', 'LAMC3', 'CBLN4', 'ITIH1', 'PHF21B', 'SERPINB3', 'RIMBP2', 'COL11A1', 'COL17A1', 'ASPM']
+2024-11-04 12:11:29,816 - root - INFO - Significant genes to submit: ['WNT16', 'KLHL13', 'SLC7A2', 'ABCC8', 'TAC1', 'CACNA1G', 'SCN4A', 'TENM1', 'HHATL', 'NPC1L1', 'CLCA4', 'ATP1A2', 'MUSK', 'LRRC7', 'EFCAB1', 'MYOC', 'MYOM2', 'ARHGAP6', 'LAMC3', 'CBLN4', 'ITIH1', 'PHF21B', 'SERPINB3', 'RIMBP2', 'COL11A1', 'COL17A1', 'ASPM']
+2024-11-04 12:11:29,817 - root - INFO - Submitting gene list to Enrichr
+2024-11-04 12:11:29,817 - root - INFO - Submitting gene list to Enrichr
+2024-11-04 12:11:30,238 - root - INFO - Enrichr userListId: 85362600
+2024-11-04 12:11:30,239 - root - INFO - Enrichr userListId: 85362601
+2024-11-04 12:11:30,468 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 12:11:30] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-04 12:11:30,469 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 12:11:30] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-04 12:11:32,974 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 12:11:32] "GET /api/top_expressed?top_n=10 HTTP/1.1" 200 -
+2024-11-04 12:11:33,105 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 12:11:33] "GET /api/top_expressed?top_n=10 HTTP/1.1" 200 -
+2024-11-04 12:12:00,474 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 12:12:00] "[33mGET /api/deseq2 HTTP/1.1[0m" 404 -
+2024-11-04 12:12:00,481 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 12:12:00] "[33mGET /api/deseq2 HTTP/1.1[0m" 404 -
+2024-11-04 12:28:56,899 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-04 12:28:56,899 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-11-04 12:29:02,426 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 12:29:02] "[33mGET /api/deseq2 HTTP/1.1[0m" 404 -
+2024-11-04 12:29:02,431 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 12:29:02] "[33mGET /api/deseq2 HTTP/1.1[0m" 404 -
+2024-11-04 12:29:05,435 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 12:29:05] "[33mGET /api/deseq2 HTTP/1.1[0m" 404 -
+2024-11-04 12:29:05,437 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 12:29:05] "[33mGET /api/deseq2 HTTP/1.1[0m" 404 -
+2024-11-04 12:31:29,990 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-04 12:31:29,991 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-11-04 12:31:51,069 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 12:31:51] "GET /api/deseq2 HTTP/1.1" 200 -
+2024-11-04 12:31:51,086 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 12:31:51] "GET /api/deseq2 HTTP/1.1" 200 -
+2024-11-04 12:31:56,745 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 12:31:56] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-04 12:31:56,747 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 12:31:56] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-04 12:31:56,785 - root - INFO - Significant genes to submit: ['WNT16', 'KLHL13', 'SLC7A2', 'ABCC8', 'TAC1', 'CACNA1G', 'SCN4A', 'TENM1', 'HHATL', 'NPC1L1', 'CLCA4', 'ATP1A2', 'MUSK', 'LRRC7', 'EFCAB1', 'MYOC', 'MYOM2', 'ARHGAP6', 'LAMC3', 'CBLN4', 'ITIH1', 'PHF21B', 'SERPINB3', 'RIMBP2', 'COL11A1', 'COL17A1', 'ASPM']
+2024-11-04 12:31:56,786 - root - INFO - Submitting gene list to Enrichr
+2024-11-04 12:31:56,793 - root - INFO - Significant genes to submit: ['WNT16', 'KLHL13', 'SLC7A2', 'ABCC8', 'TAC1', 'CACNA1G', 'SCN4A', 'TENM1', 'HHATL', 'NPC1L1', 'CLCA4', 'ATP1A2', 'MUSK', 'LRRC7', 'EFCAB1', 'MYOC', 'MYOM2', 'ARHGAP6', 'LAMC3', 'CBLN4', 'ITIH1', 'PHF21B', 'SERPINB3', 'RIMBP2', 'COL11A1', 'COL17A1', 'ASPM']
+2024-11-04 12:31:56,793 - root - INFO - Submitting gene list to Enrichr
+2024-11-04 12:31:57,121 - root - INFO - Enrichr userListId: 85363268
+2024-11-04 12:31:57,126 - root - INFO - Enrichr userListId: 85363269
+2024-11-04 12:31:57,345 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 12:31:57] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-04 12:31:57,345 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 12:31:57] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-04 12:32:00,355 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 12:32:00] "GET /api/top_expressed?top_n=10 HTTP/1.1" 200 -
+2024-11-04 12:32:00,473 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 12:32:00] "GET /api/top_expressed?top_n=10 HTTP/1.1" 200 -
+2024-11-04 12:32:02,247 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-04 12:32:02,260 - root - INFO - Filtered data shape: (500, 60)
+2024-11-04 12:32:02,488 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 12:32:02] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-04 12:32:02,696 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-04 12:32:02,707 - root - INFO - Filtered data shape: (500, 60)
+2024-11-04 12:32:02,735 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 12:32:02] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-04 12:32:06,127 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 12:32:06] "GET /api/data HTTP/1.1" 200 -
+2024-11-04 12:32:06,584 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 12:32:06] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-04 12:32:07,238 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 12:32:07] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-04 12:32:07,241 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 12:32:07] "GET /api/data HTTP/1.1" 200 -
+2024-11-04 13:22:25,671 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 13:22:25] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-04 13:22:25,672 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 13:22:25] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-04 13:22:25,824 - root - INFO - Significant genes to submit: ['WNT16', 'KLHL13', 'SLC7A2', 'ABCC8', 'TAC1', 'CACNA1G', 'SCN4A', 'TENM1', 'HHATL', 'NPC1L1', 'CLCA4', 'ATP1A2', 'MUSK', 'LRRC7', 'EFCAB1', 'MYOC', 'MYOM2', 'ARHGAP6', 'LAMC3', 'CBLN4', 'ITIH1', 'PHF21B', 'SERPINB3', 'RIMBP2', 'COL11A1', 'COL17A1', 'ASPM']
+2024-11-04 13:22:25,825 - root - INFO - Significant genes to submit: ['WNT16', 'KLHL13', 'SLC7A2', 'ABCC8', 'TAC1', 'CACNA1G', 'SCN4A', 'TENM1', 'HHATL', 'NPC1L1', 'CLCA4', 'ATP1A2', 'MUSK', 'LRRC7', 'EFCAB1', 'MYOC', 'MYOM2', 'ARHGAP6', 'LAMC3', 'CBLN4', 'ITIH1', 'PHF21B', 'SERPINB3', 'RIMBP2', 'COL11A1', 'COL17A1', 'ASPM']
+2024-11-04 13:22:25,825 - root - INFO - Submitting gene list to Enrichr
+2024-11-04 13:22:25,825 - root - INFO - Submitting gene list to Enrichr
+2024-11-04 13:22:26,110 - root - INFO - Enrichr userListId: 85364287
+2024-11-04 13:22:26,173 - root - INFO - Enrichr userListId: 85364288
+2024-11-04 13:22:26,339 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 13:22:26] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-04 13:22:26,393 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 13:22:26] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-04 14:45:05,930 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-04 14:45:05,952 - root - INFO - Filtered data shape: (500, 60)
+2024-11-04 14:45:05,985 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 14:45:05] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-04 14:45:06,135 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-04 14:45:06,162 - root - INFO - Filtered data shape: (500, 60)
+2024-11-04 14:45:06,186 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 14:45:06] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-04 14:45:08,457 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 14:45:08] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-04 14:45:08,460 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 14:45:08] "GET /api/data HTTP/1.1" 200 -
+2024-11-04 14:45:08,650 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 14:45:08] "GET /api/data HTTP/1.1" 200 -
+2024-11-04 14:45:09,103 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 14:45:09] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-04 14:45:39,708 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 14:45:39] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-04 14:45:39,712 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 14:45:39] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-04 14:45:39,763 - root - INFO - Significant genes to submit: ['WNT16', 'KLHL13', 'SLC7A2', 'ABCC8', 'TAC1', 'CACNA1G', 'SCN4A', 'TENM1', 'HHATL', 'NPC1L1', 'CLCA4', 'ATP1A2', 'MUSK', 'LRRC7', 'EFCAB1', 'MYOC', 'MYOM2', 'ARHGAP6', 'LAMC3', 'CBLN4', 'ITIH1', 'PHF21B', 'SERPINB3', 'RIMBP2', 'COL11A1', 'COL17A1', 'ASPM']
+2024-11-04 14:45:39,766 - root - INFO - Significant genes to submit: ['WNT16', 'KLHL13', 'SLC7A2', 'ABCC8', 'TAC1', 'CACNA1G', 'SCN4A', 'TENM1', 'HHATL', 'NPC1L1', 'CLCA4', 'ATP1A2', 'MUSK', 'LRRC7', 'EFCAB1', 'MYOC', 'MYOM2', 'ARHGAP6', 'LAMC3', 'CBLN4', 'ITIH1', 'PHF21B', 'SERPINB3', 'RIMBP2', 'COL11A1', 'COL17A1', 'ASPM']
+2024-11-04 14:45:39,766 - root - INFO - Submitting gene list to Enrichr
+2024-11-04 14:45:39,766 - root - INFO - Submitting gene list to Enrichr
+2024-11-04 14:45:40,064 - root - INFO - Enrichr userListId: 85367349
+2024-11-04 14:45:40,064 - root - INFO - Enrichr userListId: 85367350
+2024-11-04 14:45:40,308 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 14:45:40] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-04 14:45:40,309 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 14:45:40] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-04 14:45:48,673 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 14:45:48] "GET /api/data HTTP/1.1" 200 -
+2024-11-04 14:45:49,132 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 14:45:49] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-04 14:45:49,787 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 14:45:49] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-04 14:45:49,790 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 14:45:49] "GET /api/data HTTP/1.1" 200 -
+2024-11-04 14:57:00,381 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 14:57:00] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-04 14:57:00,384 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 14:57:00] "GET /api/data HTTP/1.1" 200 -
+2024-11-04 14:57:01,179 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 14:57:01] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-04 14:57:01,181 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 14:57:01] "GET /api/data HTTP/1.1" 200 -
+2024-11-04 14:58:28,384 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 14:58:28] "GET /api/deseq2 HTTP/1.1" 200 -
+2024-11-04 14:58:28,392 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 14:58:28] "GET /api/deseq2 HTTP/1.1" 200 -
+2024-11-04 15:13:09,779 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-04 15:13:09,802 - root - INFO - Filtered data shape: (500, 60)
+2024-11-04 15:13:09,832 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 15:13:09] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-04 15:13:10,038 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-04 15:13:10,049 - root - INFO - Filtered data shape: (500, 60)
+2024-11-04 15:13:10,079 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 15:13:10] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-04 15:28:26,939 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-04 15:28:27,036 - root - INFO - Filtered data shape: (500, 60)
+2024-11-04 15:28:27,092 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 15:28:27] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-04 15:28:31,486 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-04 15:28:31,509 - root - INFO - Filtered data shape: (500, 60)
+2024-11-04 15:28:31,593 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 15:28:31] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-04 15:28:32,268 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-04 15:28:32,282 - root - INFO - Filtered data shape: (500, 60)
+2024-11-04 15:28:32,328 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 15:28:32] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-04 15:34:40,750 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-04 15:34:40,827 - root - INFO - Filtered data shape: (500, 60)
+2024-11-04 15:34:40,861 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 15:34:40] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-04 15:34:42,868 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-04 15:34:42,905 - root - INFO - Filtered data shape: (500, 60)
+2024-11-04 15:34:43,158 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 15:34:43] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-04 15:34:43,318 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-04 15:34:43,328 - root - INFO - Filtered data shape: (500, 60)
+2024-11-04 15:34:43,353 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 15:34:43] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-04 15:39:30,984 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-04 15:39:31,007 - root - INFO - Filtered data shape: (500, 60)
+2024-11-04 15:39:31,138 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 15:39:31] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-04 15:39:40,746 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-04 15:39:40,764 - root - INFO - Filtered data shape: (500, 60)
+2024-11-04 15:39:40,852 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 15:39:40] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-04 15:39:41,169 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-04 15:39:41,181 - root - INFO - Filtered data shape: (500, 60)
+2024-11-04 15:39:41,288 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 15:39:41] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-04 15:52:30,077 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 15:52:30] "GET /api/deseq2 HTTP/1.1" 200 -
+2024-11-04 15:52:30,100 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 15:52:30] "GET /api/deseq2 HTTP/1.1" 200 -
+2024-11-04 15:52:38,066 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 15:52:38] "GET /api/data HTTP/1.1" 200 -
+2024-11-04 15:52:38,515 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 15:52:38] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-04 15:52:38,724 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 15:52:38] "GET /api/data HTTP/1.1" 200 -
+2024-11-04 15:52:39,200 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 15:52:39] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-04 15:54:03,129 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 15:54:03] "GET /api/top_expressed?top_n=10 HTTP/1.1" 200 -
+2024-11-04 15:54:03,251 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 15:54:03] "GET /api/top_expressed?top_n=10 HTTP/1.1" 200 -
+2024-11-04 15:54:30,224 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 15:54:30] "GET /api/deseq2 HTTP/1.1" 200 -
+2024-11-04 15:54:30,239 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 15:54:30] "GET /api/deseq2 HTTP/1.1" 200 -
+2024-11-04 15:55:16,648 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 15:55:16] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-04 15:55:16,650 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 15:55:16] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-04 15:55:16,660 - root - INFO - Significant genes to submit: ['WNT16', 'KLHL13', 'SLC7A2', 'ABCC8', 'TAC1', 'CACNA1G', 'SCN4A', 'TENM1', 'HHATL', 'NPC1L1', 'CLCA4', 'ATP1A2', 'MUSK', 'LRRC7', 'EFCAB1', 'MYOC', 'MYOM2', 'ARHGAP6', 'LAMC3', 'CBLN4', 'ITIH1', 'PHF21B', 'SERPINB3', 'RIMBP2', 'COL11A1', 'COL17A1', 'ASPM']
+2024-11-04 15:55:16,660 - root - INFO - Submitting gene list to Enrichr
+2024-11-04 15:55:16,674 - root - INFO - Significant genes to submit: ['WNT16', 'KLHL13', 'SLC7A2', 'ABCC8', 'TAC1', 'CACNA1G', 'SCN4A', 'TENM1', 'HHATL', 'NPC1L1', 'CLCA4', 'ATP1A2', 'MUSK', 'LRRC7', 'EFCAB1', 'MYOC', 'MYOM2', 'ARHGAP6', 'LAMC3', 'CBLN4', 'ITIH1', 'PHF21B', 'SERPINB3', 'RIMBP2', 'COL11A1', 'COL17A1', 'ASPM']
+2024-11-04 15:55:16,674 - root - INFO - Submitting gene list to Enrichr
+2024-11-04 15:55:16,994 - root - INFO - Enrichr userListId: 85368751
+2024-11-04 15:55:16,994 - root - INFO - Enrichr userListId: 85368750
+2024-11-04 15:55:17,241 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 15:55:17] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-04 15:55:17,243 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 15:55:17] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-04 15:57:16,224 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 15:57:16] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-04 15:57:16,225 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 15:57:16] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-04 15:57:16,253 - root - INFO - Significant genes to submit: ['WNT16', 'KLHL13', 'SLC7A2', 'ABCC8', 'TAC1', 'CACNA1G', 'SCN4A', 'TENM1', 'HHATL', 'NPC1L1', 'CLCA4', 'ATP1A2', 'MUSK', 'LRRC7', 'EFCAB1', 'MYOC', 'MYOM2', 'ARHGAP6', 'LAMC3', 'CBLN4', 'ITIH1', 'PHF21B', 'SERPINB3', 'RIMBP2', 'COL11A1', 'COL17A1', 'ASPM']
+2024-11-04 15:57:16,253 - root - INFO - Submitting gene list to Enrichr
+2024-11-04 15:57:16,257 - root - INFO - Significant genes to submit: ['WNT16', 'KLHL13', 'SLC7A2', 'ABCC8', 'TAC1', 'CACNA1G', 'SCN4A', 'TENM1', 'HHATL', 'NPC1L1', 'CLCA4', 'ATP1A2', 'MUSK', 'LRRC7', 'EFCAB1', 'MYOC', 'MYOM2', 'ARHGAP6', 'LAMC3', 'CBLN4', 'ITIH1', 'PHF21B', 'SERPINB3', 'RIMBP2', 'COL11A1', 'COL17A1', 'ASPM']
+2024-11-04 15:57:16,258 - root - INFO - Submitting gene list to Enrichr
+2024-11-04 15:57:16,510 - root - INFO - Enrichr userListId: 85368766
+2024-11-04 15:57:16,512 - root - INFO - Enrichr userListId: 85368767
+2024-11-04 15:57:16,738 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 15:57:16] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-04 15:57:16,739 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 15:57:16] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-04 15:59:02,059 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 15:59:02] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-04 15:59:02,061 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 15:59:02] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-04 15:59:02,069 - root - INFO - Significant genes to submit: ['WNT16', 'KLHL13', 'SLC7A2', 'ABCC8', 'TAC1', 'CACNA1G', 'SCN4A', 'TENM1', 'HHATL', 'NPC1L1', 'CLCA4', 'ATP1A2', 'MUSK', 'LRRC7', 'EFCAB1', 'MYOC', 'MYOM2', 'ARHGAP6', 'LAMC3', 'CBLN4', 'ITIH1', 'PHF21B', 'SERPINB3', 'RIMBP2', 'COL11A1', 'COL17A1', 'ASPM']
+2024-11-04 15:59:02,072 - root - INFO - Significant genes to submit: ['WNT16', 'KLHL13', 'SLC7A2', 'ABCC8', 'TAC1', 'CACNA1G', 'SCN4A', 'TENM1', 'HHATL', 'NPC1L1', 'CLCA4', 'ATP1A2', 'MUSK', 'LRRC7', 'EFCAB1', 'MYOC', 'MYOM2', 'ARHGAP6', 'LAMC3', 'CBLN4', 'ITIH1', 'PHF21B', 'SERPINB3', 'RIMBP2', 'COL11A1', 'COL17A1', 'ASPM']
+2024-11-04 15:59:02,072 - root - INFO - Submitting gene list to Enrichr
+2024-11-04 15:59:02,073 - root - INFO - Submitting gene list to Enrichr
+2024-11-04 15:59:02,334 - root - INFO - Enrichr userListId: 85368789
+2024-11-04 15:59:02,335 - root - INFO - Enrichr userListId: 85368790
+2024-11-04 15:59:02,562 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 15:59:02] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-04 15:59:02,562 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 15:59:02] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-04 15:59:20,052 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 15:59:20] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-04 15:59:20,053 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 15:59:20] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-04 15:59:20,059 - root - INFO - Significant genes to submit: ['WNT16', 'KLHL13', 'SLC7A2', 'ABCC8', 'TAC1', 'CACNA1G', 'SCN4A', 'TENM1', 'HHATL', 'NPC1L1', 'CLCA4', 'ATP1A2', 'MUSK', 'LRRC7', 'EFCAB1', 'MYOC', 'MYOM2', 'ARHGAP6', 'LAMC3', 'CBLN4', 'ITIH1', 'PHF21B', 'SERPINB3', 'RIMBP2', 'COL11A1', 'COL17A1', 'ASPM']
+2024-11-04 15:59:20,059 - root - INFO - Submitting gene list to Enrichr
+2024-11-04 15:59:20,066 - root - INFO - Significant genes to submit: ['WNT16', 'KLHL13', 'SLC7A2', 'ABCC8', 'TAC1', 'CACNA1G', 'SCN4A', 'TENM1', 'HHATL', 'NPC1L1', 'CLCA4', 'ATP1A2', 'MUSK', 'LRRC7', 'EFCAB1', 'MYOC', 'MYOM2', 'ARHGAP6', 'LAMC3', 'CBLN4', 'ITIH1', 'PHF21B', 'SERPINB3', 'RIMBP2', 'COL11A1', 'COL17A1', 'ASPM']
+2024-11-04 15:59:20,067 - root - INFO - Submitting gene list to Enrichr
+2024-11-04 15:59:20,325 - root - INFO - Enrichr userListId: 85368793
+2024-11-04 15:59:20,551 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 15:59:20] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-04 15:59:25,541 - root - INFO - Enrichr userListId: 85368794
+2024-11-04 15:59:25,758 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 15:59:25] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-04 16:00:10,061 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:00:10] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-04 16:00:10,062 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:00:10] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-04 16:00:10,072 - root - INFO - Significant genes to submit: ['WNT16', 'KLHL13', 'SLC7A2', 'ABCC8', 'TAC1', 'CACNA1G', 'SCN4A', 'TENM1', 'HHATL', 'NPC1L1', 'CLCA4', 'ATP1A2', 'MUSK', 'LRRC7', 'EFCAB1', 'MYOC', 'MYOM2', 'ARHGAP6', 'LAMC3', 'CBLN4', 'ITIH1', 'PHF21B', 'SERPINB3', 'RIMBP2', 'COL11A1', 'COL17A1', 'ASPM']
+2024-11-04 16:00:10,076 - root - INFO - Significant genes to submit: ['WNT16', 'KLHL13', 'SLC7A2', 'ABCC8', 'TAC1', 'CACNA1G', 'SCN4A', 'TENM1', 'HHATL', 'NPC1L1', 'CLCA4', 'ATP1A2', 'MUSK', 'LRRC7', 'EFCAB1', 'MYOC', 'MYOM2', 'ARHGAP6', 'LAMC3', 'CBLN4', 'ITIH1', 'PHF21B', 'SERPINB3', 'RIMBP2', 'COL11A1', 'COL17A1', 'ASPM']
+2024-11-04 16:00:10,076 - root - INFO - Submitting gene list to Enrichr
+2024-11-04 16:00:10,076 - root - INFO - Submitting gene list to Enrichr
+2024-11-04 16:00:10,336 - root - INFO - Enrichr userListId: 85368799
+2024-11-04 16:00:10,337 - root - INFO - Enrichr userListId: 85368800
+2024-11-04 16:00:10,579 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:00:10] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-04 16:00:10,579 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:00:10] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-04 16:09:04,979 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:09:04] "GET /api/data HTTP/1.1" 200 -
+2024-11-04 16:09:05,447 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:09:05] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-04 16:09:05,649 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:09:05] "GET /api/data HTTP/1.1" 200 -
+2024-11-04 16:09:06,127 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:09:06] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-04 16:09:25,144 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:09:25] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-04 16:09:25,147 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:09:25] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-04 16:09:25,189 - root - INFO - Significant genes to submit: ['WNT16', 'KLHL13', 'SLC7A2', 'ABCC8', 'TAC1', 'CACNA1G', 'SCN4A', 'TENM1', 'HHATL', 'NPC1L1', 'CLCA4', 'ATP1A2', 'MUSK', 'LRRC7', 'EFCAB1', 'MYOC', 'MYOM2', 'ARHGAP6', 'LAMC3', 'CBLN4', 'ITIH1', 'PHF21B', 'SERPINB3', 'RIMBP2', 'COL11A1', 'COL17A1', 'ASPM']
+2024-11-04 16:09:25,189 - root - INFO - Submitting gene list to Enrichr
+2024-11-04 16:09:25,191 - root - INFO - Significant genes to submit: ['WNT16', 'KLHL13', 'SLC7A2', 'ABCC8', 'TAC1', 'CACNA1G', 'SCN4A', 'TENM1', 'HHATL', 'NPC1L1', 'CLCA4', 'ATP1A2', 'MUSK', 'LRRC7', 'EFCAB1', 'MYOC', 'MYOM2', 'ARHGAP6', 'LAMC3', 'CBLN4', 'ITIH1', 'PHF21B', 'SERPINB3', 'RIMBP2', 'COL11A1', 'COL17A1', 'ASPM']
+2024-11-04 16:09:25,193 - root - INFO - Submitting gene list to Enrichr
+2024-11-04 16:09:25,471 - root - INFO - Enrichr userListId: 85368869
+2024-11-04 16:09:25,710 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:09:25] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-04 16:09:30,745 - root - INFO - Enrichr userListId: 85368870
+2024-11-04 16:09:30,965 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:09:30] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-04 16:09:48,514 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:09:48] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-04 16:09:48,517 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:09:48] "GET /api/data HTTP/1.1" 200 -
+2024-11-04 16:09:48,707 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:09:48] "GET /api/data HTTP/1.1" 200 -
+2024-11-04 16:09:49,193 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:09:49] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-04 16:10:52,826 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:10:52] "GET /api/deseq2 HTTP/1.1" 200 -
+2024-11-04 16:10:52,836 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:10:52] "GET /api/deseq2 HTTP/1.1" 200 -
+2024-11-04 16:10:57,266 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:10:57] "GET /api/deseq2 HTTP/1.1" 200 -
+2024-11-04 16:10:57,285 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:10:57] "GET /api/deseq2 HTTP/1.1" 200 -
+2024-11-04 16:10:59,714 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:10:59] "GET /api/deseq2 HTTP/1.1" 200 -
+2024-11-04 16:10:59,727 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:10:59] "GET /api/deseq2 HTTP/1.1" 200 -
+2024-11-04 16:11:01,721 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:11:01] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-04 16:11:01,728 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:11:01] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-04 16:11:01,757 - root - INFO - Significant genes to submit: ['WNT16', 'KLHL13', 'SLC7A2', 'ABCC8', 'TAC1', 'CACNA1G', 'SCN4A', 'TENM1', 'HHATL', 'NPC1L1', 'CLCA4', 'ATP1A2', 'MUSK', 'LRRC7', 'EFCAB1', 'MYOC', 'MYOM2', 'ARHGAP6', 'LAMC3', 'CBLN4', 'ITIH1', 'PHF21B', 'SERPINB3', 'RIMBP2', 'COL11A1', 'COL17A1', 'ASPM']
+2024-11-04 16:11:01,757 - root - INFO - Submitting gene list to Enrichr
+2024-11-04 16:11:01,762 - root - INFO - Significant genes to submit: ['WNT16', 'KLHL13', 'SLC7A2', 'ABCC8', 'TAC1', 'CACNA1G', 'SCN4A', 'TENM1', 'HHATL', 'NPC1L1', 'CLCA4', 'ATP1A2', 'MUSK', 'LRRC7', 'EFCAB1', 'MYOC', 'MYOM2', 'ARHGAP6', 'LAMC3', 'CBLN4', 'ITIH1', 'PHF21B', 'SERPINB3', 'RIMBP2', 'COL11A1', 'COL17A1', 'ASPM']
+2024-11-04 16:11:01,779 - root - INFO - Submitting gene list to Enrichr
+2024-11-04 16:11:02,046 - root - INFO - Enrichr userListId: 85368880
+2024-11-04 16:11:02,272 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:11:02] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-04 16:11:07,253 - root - INFO - Enrichr userListId: 85368883
+2024-11-04 16:11:07,482 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:11:07] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-04 16:11:20,311 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:11:20] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-04 16:11:20,313 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:11:20] "GET /api/data HTTP/1.1" 200 -
+2024-11-04 16:11:20,490 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:11:20] "GET /api/data HTTP/1.1" 200 -
+2024-11-04 16:11:20,972 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:11:20] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-04 16:36:55,487 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:36:55] "GET /api/data HTTP/1.1" 200 -
+2024-11-04 16:36:55,952 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:36:55] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-04 16:36:56,134 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:36:56] "GET /api/data HTTP/1.1" 200 -
+2024-11-04 16:36:56,595 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:36:56] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-04 16:36:59,107 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-04 16:36:59,126 - root - INFO - Filtered data shape: (500, 60)
+2024-11-04 16:36:59,157 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:36:59] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-04 16:36:59,293 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-04 16:36:59,305 - root - INFO - Filtered data shape: (500, 60)
+2024-11-04 16:36:59,330 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:36:59] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-04 16:37:02,549 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-04 16:37:02,559 - root - INFO - Filtered data shape: (500, 60)
+2024-11-04 16:37:02,581 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:37:02] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-04 16:37:02,707 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-04 16:37:02,716 - root - INFO - Filtered data shape: (500, 60)
+2024-11-04 16:37:02,740 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:37:02] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-04 16:37:37,356 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:37:37] "GET /api/deseq2 HTTP/1.1" 200 -
+2024-11-04 16:37:37,380 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:37:37] "GET /api/deseq2 HTTP/1.1" 200 -
+2024-11-04 16:37:41,669 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:37:41] "GET /api/deseq2 HTTP/1.1" 200 -
+2024-11-04 16:37:41,683 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:37:41] "GET /api/deseq2 HTTP/1.1" 200 -
+2024-11-04 16:37:44,519 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-04 16:37:44,532 - root - INFO - Filtered data shape: (500, 60)
+2024-11-04 16:37:44,581 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:37:44] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-04 16:37:44,708 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-04 16:37:44,718 - root - INFO - Filtered data shape: (500, 60)
+2024-11-04 16:37:44,744 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:37:44] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-04 16:44:26,358 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-04 16:44:26,370 - root - INFO - Filtered data shape: (500, 60)
+2024-11-04 16:44:26,408 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:44:26] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-04 16:44:26,607 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-04 16:44:26,619 - root - INFO - Filtered data shape: (500, 60)
+2024-11-04 16:44:26,644 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:44:26] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-04 16:44:32,221 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:44:32] "GET /api/data HTTP/1.1" 200 -
+2024-11-04 16:44:32,684 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:44:32] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-04 16:44:33,348 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:44:33] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-04 16:44:33,350 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:44:33] "GET /api/data HTTP/1.1" 200 -
+2024-11-04 16:44:39,231 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-04 16:44:39,240 - root - INFO - Filtered data shape: (500, 60)
+2024-11-04 16:44:39,264 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:44:39] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-04 16:44:39,417 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-04 16:44:39,427 - root - INFO - Filtered data shape: (500, 60)
+2024-11-04 16:44:39,451 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:44:39] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-04 16:45:49,831 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:45:49] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-04 16:45:49,840 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:45:49] "GET /api/data HTTP/1.1" 200 -
+2024-11-04 16:45:50,489 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:45:50] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-04 16:45:50,493 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:45:50] "GET /api/data HTTP/1.1" 200 -
+2024-11-04 16:46:19,397 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:46:19] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-04 16:46:19,399 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:46:19] "GET /api/data HTTP/1.1" 200 -
+2024-11-04 16:46:19,577 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:46:19] "GET /api/data HTTP/1.1" 200 -
+2024-11-04 16:46:20,044 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:46:20] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-04 16:46:24,997 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-04 16:46:25,008 - root - INFO - Filtered data shape: (500, 60)
+2024-11-04 16:46:25,032 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:46:25] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-04 16:46:25,164 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-04 16:46:25,174 - root - INFO - Filtered data shape: (500, 60)
+2024-11-04 16:46:25,198 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:46:25] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-04 16:46:36,073 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:46:36] "GET /api/top_expressed?top_n=10 HTTP/1.1" 200 -
+2024-11-04 16:46:36,191 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:46:36] "GET /api/top_expressed?top_n=10 HTTP/1.1" 200 -
+2024-11-04 16:46:38,708 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:46:38] "GET /api/top_expressed?top_n=20 HTTP/1.1" 200 -
+2024-11-04 16:46:40,774 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:46:40] "GET /api/top_expressed?top_n=50 HTTP/1.1" 200 -
+2024-11-04 16:46:46,404 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:46:46] "GET /api/deseq2 HTTP/1.1" 200 -
+2024-11-04 16:46:46,415 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:46:46] "GET /api/deseq2 HTTP/1.1" 200 -
+2024-11-04 16:46:59,110 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:46:59] "GET /api/top_expressed?top_n=10 HTTP/1.1" 200 -
+2024-11-04 16:46:59,235 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:46:59] "GET /api/top_expressed?top_n=10 HTTP/1.1" 200 -
+2024-11-04 16:47:01,997 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:47:01] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-04 16:47:02,006 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:47:02] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-04 16:47:02,028 - root - INFO - Significant genes to submit: ['WNT16', 'KLHL13', 'SLC7A2', 'ABCC8', 'TAC1', 'CACNA1G', 'SCN4A', 'TENM1', 'HHATL', 'NPC1L1', 'CLCA4', 'ATP1A2', 'MUSK', 'LRRC7', 'EFCAB1', 'MYOC', 'MYOM2', 'ARHGAP6', 'LAMC3', 'CBLN4', 'ITIH1', 'PHF21B', 'SERPINB3', 'RIMBP2', 'COL11A1', 'COL17A1', 'ASPM']
+2024-11-04 16:47:02,031 - root - INFO - Submitting gene list to Enrichr
+2024-11-04 16:47:02,031 - root - INFO - Significant genes to submit: ['WNT16', 'KLHL13', 'SLC7A2', 'ABCC8', 'TAC1', 'CACNA1G', 'SCN4A', 'TENM1', 'HHATL', 'NPC1L1', 'CLCA4', 'ATP1A2', 'MUSK', 'LRRC7', 'EFCAB1', 'MYOC', 'MYOM2', 'ARHGAP6', 'LAMC3', 'CBLN4', 'ITIH1', 'PHF21B', 'SERPINB3', 'RIMBP2', 'COL11A1', 'COL17A1', 'ASPM']
+2024-11-04 16:47:02,036 - root - INFO - Submitting gene list to Enrichr
+2024-11-04 16:47:02,323 - root - INFO - Enrichr userListId: 85369235
+2024-11-04 16:47:02,324 - root - INFO - Enrichr userListId: 85369236
+2024-11-04 16:47:02,565 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:47:02] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-04 16:47:02,567 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:47:02] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-04 16:47:33,866 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:47:33] "GET /api/deseq2 HTTP/1.1" 200 -
+2024-11-04 16:47:33,882 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:47:33] "GET /api/deseq2 HTTP/1.1" 200 -
+2024-11-04 16:47:35,061 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:47:35] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-04 16:47:35,066 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:47:35] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-04 16:47:35,091 - root - INFO - Significant genes to submit: ['WNT16', 'KLHL13', 'SLC7A2', 'ABCC8', 'TAC1', 'CACNA1G', 'SCN4A', 'TENM1', 'HHATL', 'NPC1L1', 'CLCA4', 'ATP1A2', 'MUSK', 'LRRC7', 'EFCAB1', 'MYOC', 'MYOM2', 'ARHGAP6', 'LAMC3', 'CBLN4', 'ITIH1', 'PHF21B', 'SERPINB3', 'RIMBP2', 'COL11A1', 'COL17A1', 'ASPM']
+2024-11-04 16:47:35,094 - root - INFO - Submitting gene list to Enrichr
+2024-11-04 16:47:35,095 - root - INFO - Significant genes to submit: ['WNT16', 'KLHL13', 'SLC7A2', 'ABCC8', 'TAC1', 'CACNA1G', 'SCN4A', 'TENM1', 'HHATL', 'NPC1L1', 'CLCA4', 'ATP1A2', 'MUSK', 'LRRC7', 'EFCAB1', 'MYOC', 'MYOM2', 'ARHGAP6', 'LAMC3', 'CBLN4', 'ITIH1', 'PHF21B', 'SERPINB3', 'RIMBP2', 'COL11A1', 'COL17A1', 'ASPM']
+2024-11-04 16:47:35,095 - root - INFO - Submitting gene list to Enrichr
+2024-11-04 16:47:35,363 - root - INFO - Enrichr userListId: 85369243
+2024-11-04 16:47:35,370 - root - INFO - Enrichr userListId: 85369244
+2024-11-04 16:47:35,592 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:47:35] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-04 16:47:35,594 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:47:35] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-04 16:47:38,500 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:47:38] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-04 16:47:38,502 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:47:38] "GET /api/data HTTP/1.1" 200 -
+2024-11-04 16:47:38,680 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:47:38] "GET /api/data HTTP/1.1" 200 -
+2024-11-04 16:47:39,144 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:47:39] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-04 16:55:06,328 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:55:06] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-04 16:55:06,330 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:55:06] "GET /api/data HTTP/1.1" 200 -
+2024-11-04 16:55:06,537 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:55:06] "GET /api/data HTTP/1.1" 200 -
+2024-11-04 16:55:06,992 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:55:06] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-04 16:55:15,221 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-04 16:55:15,230 - root - INFO - Filtered data shape: (500, 60)
+2024-11-04 16:55:15,254 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:55:15] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-04 16:55:15,373 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-04 16:55:15,383 - root - INFO - Filtered data shape: (500, 60)
+2024-11-04 16:55:15,407 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:55:15] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-04 16:55:42,741 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-04 16:55:42,753 - root - INFO - Filtered data shape: (500, 60)
+2024-11-04 16:55:42,780 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:55:42] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-04 16:55:42,963 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-04 16:55:42,973 - root - INFO - Filtered data shape: (500, 60)
+2024-11-04 16:55:42,997 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:55:42] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-04 16:56:40,027 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-04 16:56:40,045 - root - INFO - Filtered data shape: (500, 60)
+2024-11-04 16:56:40,099 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:56:40] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-04 16:56:40,302 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-04 16:56:40,317 - root - INFO - Filtered data shape: (500, 60)
+2024-11-04 16:56:40,365 - werkzeug - INFO - 127.0.0.1 - - [04/Nov/2024 16:56:40] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-06 11:59:24,971 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2024 11:59:24] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-06 11:59:24,972 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2024 11:59:24] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-06 11:59:24,994 - root - INFO - Significant genes to submit: ['WNT16', 'KLHL13', 'SLC7A2', 'ABCC8', 'TAC1', 'CACNA1G', 'SCN4A', 'TENM1', 'HHATL', 'NPC1L1', 'CLCA4', 'ATP1A2', 'MUSK', 'LRRC7', 'EFCAB1', 'MYOC', 'MYOM2', 'ARHGAP6', 'LAMC3', 'CBLN4', 'ITIH1', 'PHF21B', 'SERPINB3', 'RIMBP2', 'COL11A1', 'COL17A1', 'ASPM']
+2024-11-06 11:59:24,994 - root - INFO - Submitting gene list to Enrichr
+2024-11-06 11:59:25,002 - root - INFO - Significant genes to submit: ['WNT16', 'KLHL13', 'SLC7A2', 'ABCC8', 'TAC1', 'CACNA1G', 'SCN4A', 'TENM1', 'HHATL', 'NPC1L1', 'CLCA4', 'ATP1A2', 'MUSK', 'LRRC7', 'EFCAB1', 'MYOC', 'MYOM2', 'ARHGAP6', 'LAMC3', 'CBLN4', 'ITIH1', 'PHF21B', 'SERPINB3', 'RIMBP2', 'COL11A1', 'COL17A1', 'ASPM']
+2024-11-06 11:59:25,002 - root - INFO - Submitting gene list to Enrichr
+2024-11-06 11:59:25,328 - root - INFO - Enrichr userListId: 85463344
+2024-11-06 11:59:25,328 - root - INFO - Enrichr userListId: 85463345
+2024-11-06 11:59:25,564 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2024 11:59:25] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-06 11:59:25,567 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2024 11:59:25] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-06 12:01:21,048 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2024 12:01:21] "GET /api/deseq2 HTTP/1.1" 200 -
+2024-11-06 12:01:21,057 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2024 12:01:21] "GET /api/deseq2 HTTP/1.1" 200 -
+2024-11-06 13:22:34,593 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-06 13:22:34,611 - root - INFO - Filtered data shape: (500, 60)
+2024-11-06 13:22:34,648 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2024 13:22:34] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-06 13:22:34,775 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-06 13:22:34,789 - root - INFO - Filtered data shape: (500, 60)
+2024-11-06 13:22:34,814 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2024 13:22:34] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-06 13:23:02,685 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2024 13:23:02] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-06 13:23:02,687 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2024 13:23:02] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-06 13:23:02,711 - root - INFO - Significant genes to submit: ['WNT16', 'KLHL13', 'SLC7A2', 'ABCC8', 'TAC1', 'CACNA1G', 'SCN4A', 'TENM1', 'HHATL', 'NPC1L1', 'CLCA4', 'ATP1A2', 'MUSK', 'LRRC7', 'EFCAB1', 'MYOC', 'MYOM2', 'ARHGAP6', 'LAMC3', 'CBLN4', 'ITIH1', 'PHF21B', 'SERPINB3', 'RIMBP2', 'COL11A1', 'COL17A1', 'ASPM']
+2024-11-06 13:23:02,713 - root - INFO - Significant genes to submit: ['WNT16', 'KLHL13', 'SLC7A2', 'ABCC8', 'TAC1', 'CACNA1G', 'SCN4A', 'TENM1', 'HHATL', 'NPC1L1', 'CLCA4', 'ATP1A2', 'MUSK', 'LRRC7', 'EFCAB1', 'MYOC', 'MYOM2', 'ARHGAP6', 'LAMC3', 'CBLN4', 'ITIH1', 'PHF21B', 'SERPINB3', 'RIMBP2', 'COL11A1', 'COL17A1', 'ASPM']
+2024-11-06 13:23:02,713 - root - INFO - Submitting gene list to Enrichr
+2024-11-06 13:23:02,713 - root - INFO - Submitting gene list to Enrichr
+2024-11-06 13:23:03,070 - root - INFO - Enrichr userListId: 85465936
+2024-11-06 13:23:03,072 - root - INFO - Enrichr userListId: 85465937
+2024-11-06 13:23:03,344 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2024 13:23:03] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-06 13:23:03,347 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2024 13:23:03] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-06 13:40:57,985 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2024 13:40:57] "GET /api/deseq2 HTTP/1.1" 200 -
+2024-11-06 13:40:58,015 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2024 13:40:58] "GET /api/deseq2 HTTP/1.1" 200 -
+2024-11-06 13:41:03,629 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2024 13:41:03] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-06 13:41:03,637 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2024 13:41:03] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-06 13:41:03,644 - root - INFO - Significant genes to submit: ['WNT16', 'KLHL13', 'SLC7A2', 'ABCC8', 'TAC1', 'CACNA1G', 'SCN4A', 'TENM1', 'HHATL', 'NPC1L1', 'CLCA4', 'ATP1A2', 'MUSK', 'LRRC7', 'EFCAB1', 'MYOC', 'MYOM2', 'ARHGAP6', 'LAMC3', 'CBLN4', 'ITIH1', 'PHF21B', 'SERPINB3', 'RIMBP2', 'COL11A1', 'COL17A1', 'ASPM']
+2024-11-06 13:41:03,645 - root - INFO - Submitting gene list to Enrichr
+2024-11-06 13:41:03,656 - root - INFO - Significant genes to submit: ['WNT16', 'KLHL13', 'SLC7A2', 'ABCC8', 'TAC1', 'CACNA1G', 'SCN4A', 'TENM1', 'HHATL', 'NPC1L1', 'CLCA4', 'ATP1A2', 'MUSK', 'LRRC7', 'EFCAB1', 'MYOC', 'MYOM2', 'ARHGAP6', 'LAMC3', 'CBLN4', 'ITIH1', 'PHF21B', 'SERPINB3', 'RIMBP2', 'COL11A1', 'COL17A1', 'ASPM']
+2024-11-06 13:41:03,659 - root - INFO - Submitting gene list to Enrichr
+2024-11-06 13:41:03,991 - root - INFO - Enrichr userListId: 85466512
+2024-11-06 13:41:04,044 - root - INFO - Enrichr userListId: 85466513
+2024-11-06 13:41:04,261 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2024 13:41:04] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-06 13:41:04,316 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2024 13:41:04] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-06 13:49:10,990 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2024 13:49:10] "GET /api/deseq2 HTTP/1.1" 200 -
+2024-11-06 13:49:11,001 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2024 13:49:11] "GET /api/deseq2 HTTP/1.1" 200 -
+2024-11-06 13:49:11,912 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2024 13:49:11] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-06 13:49:11,917 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2024 13:49:11] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-06 13:49:11,948 - root - INFO - Significant genes to submit: ['WNT16', 'KLHL13', 'SLC7A2', 'ABCC8', 'TAC1', 'CACNA1G', 'SCN4A', 'TENM1', 'HHATL', 'NPC1L1', 'CLCA4', 'ATP1A2', 'MUSK', 'LRRC7', 'EFCAB1', 'MYOC', 'MYOM2', 'ARHGAP6', 'LAMC3', 'CBLN4', 'ITIH1', 'PHF21B', 'SERPINB3', 'RIMBP2', 'COL11A1', 'COL17A1', 'ASPM']
+2024-11-06 13:49:11,949 - root - INFO - Submitting gene list to Enrichr
+2024-11-06 13:49:11,960 - root - INFO - Significant genes to submit: ['WNT16', 'KLHL13', 'SLC7A2', 'ABCC8', 'TAC1', 'CACNA1G', 'SCN4A', 'TENM1', 'HHATL', 'NPC1L1', 'CLCA4', 'ATP1A2', 'MUSK', 'LRRC7', 'EFCAB1', 'MYOC', 'MYOM2', 'ARHGAP6', 'LAMC3', 'CBLN4', 'ITIH1', 'PHF21B', 'SERPINB3', 'RIMBP2', 'COL11A1', 'COL17A1', 'ASPM']
+2024-11-06 13:49:11,962 - root - INFO - Submitting gene list to Enrichr
+2024-11-06 13:49:12,253 - root - INFO - Enrichr userListId: 85466643
+2024-11-06 13:49:12,530 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2024 13:49:12] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-06 13:49:14,834 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2024 13:49:14] "GET /api/top_expressed?top_n=10 HTTP/1.1" 200 -
+2024-11-06 13:49:14,952 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2024 13:49:14] "GET /api/top_expressed?top_n=10 HTTP/1.1" 200 -
+2024-11-06 13:49:15,466 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-06 13:49:15,476 - root - INFO - Filtered data shape: (500, 60)
+2024-11-06 13:49:15,508 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2024 13:49:15] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-06 13:49:15,625 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-06 13:49:15,635 - root - INFO - Filtered data shape: (500, 60)
+2024-11-06 13:49:15,660 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2024 13:49:15] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-06 13:49:17,513 - root - INFO - Enrichr userListId: 85466644
+2024-11-06 13:49:17,772 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2024 13:49:17] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-07 16:11:46,962 - werkzeug - INFO - 127.0.0.1 - - [07/Nov/2024 16:11:46] "GET /api/data HTTP/1.1" 200 -
+2024-11-07 16:11:46,962 - werkzeug - INFO - 127.0.0.1 - - [07/Nov/2024 16:11:46] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-07 16:11:47,718 - werkzeug - INFO - 127.0.0.1 - - [07/Nov/2024 16:11:47] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-07 16:11:47,729 - werkzeug - INFO - 127.0.0.1 - - [07/Nov/2024 16:11:47] "GET /api/data HTTP/1.1" 200 -
+2024-11-07 16:26:14,014 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-07 16:26:14,014 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-11-07 16:42:47,107 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-07 16:42:47,107 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-11-07 16:42:59,607 - werkzeug - INFO - 127.0.0.1 - - [07/Nov/2024 16:42:59] "[33mGET /api/top_expressed?top_n=10 HTTP/1.1[0m" 404 -
+2024-11-07 16:42:59,613 - werkzeug - INFO - 127.0.0.1 - - [07/Nov/2024 16:42:59] "[33mGET /api/top_expressed?top_n=10 HTTP/1.1[0m" 404 -
+2024-11-07 16:48:58,973 - werkzeug - INFO - 127.0.0.1 - - [07/Nov/2024 16:48:58] "OPTIONS /api/top-expressed HTTP/1.1" 200 -
+2024-11-07 16:48:58,976 - werkzeug - INFO - 127.0.0.1 - - [07/Nov/2024 16:48:58] "[35m[1mPOST /api/top-expressed HTTP/1.1[0m" 500 -
+2024-11-07 16:49:02,233 - werkzeug - INFO - 127.0.0.1 - - [07/Nov/2024 16:49:02] "[35m[1mPOST /api/top-expressed HTTP/1.1[0m" 500 -
+2024-11-07 16:49:02,235 - werkzeug - INFO - 127.0.0.1 - - [07/Nov/2024 16:49:02] "[35m[1mPOST /api/top-expressed HTTP/1.1[0m" 500 -
+2024-11-07 16:49:49,517 - werkzeug - INFO - 127.0.0.1 - - [07/Nov/2024 16:49:49] "OPTIONS /api/top-expressed HTTP/1.1" 200 -
+2024-11-07 16:49:49,518 - werkzeug - INFO - 127.0.0.1 - - [07/Nov/2024 16:49:49] "OPTIONS /api/top-expressed HTTP/1.1" 200 -
+2024-11-07 16:49:49,521 - werkzeug - INFO - 127.0.0.1 - - [07/Nov/2024 16:49:49] "[35m[1mPOST /api/top-expressed HTTP/1.1[0m" 500 -
+2024-11-07 16:49:49,523 - werkzeug - INFO - 127.0.0.1 - - [07/Nov/2024 16:49:49] "[35m[1mPOST /api/top-expressed HTTP/1.1[0m" 500 -
+2024-11-07 16:53:04,996 - werkzeug - INFO - 127.0.0.1 - - [07/Nov/2024 16:53:04] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-07 16:53:04,998 - werkzeug - INFO - 127.0.0.1 - - [07/Nov/2024 16:53:04] "GET /api/data HTTP/1.1" 200 -
+2024-11-07 16:53:05,229 - werkzeug - INFO - 127.0.0.1 - - [07/Nov/2024 16:53:05] "GET /api/data HTTP/1.1" 200 -
+2024-11-07 16:53:05,695 - werkzeug - INFO - 127.0.0.1 - - [07/Nov/2024 16:53:05] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-07 16:53:47,381 - werkzeug - INFO - 127.0.0.1 - - [07/Nov/2024 16:53:47] "[33mGET /api/top_expressed HTTP/1.1[0m" 404 -
+2024-11-07 16:53:48,880 - werkzeug - INFO - 127.0.0.1 - - [07/Nov/2024 16:53:48] "[33mGET /api/top_expressed HTTP/1.1[0m" 404 -
+2024-11-07 17:06:22,768 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-07 17:06:22,768 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-11-07 17:06:28,457 - werkzeug - INFO - 127.0.0.1 - - [07/Nov/2024 17:06:28] "[33mGET /api/top_expressed HTTP/1.1[0m" 404 -
+2024-11-07 17:06:29,880 - werkzeug - INFO - 127.0.0.1 - - [07/Nov/2024 17:06:29] "[33mGET /api/top_expressed HTTP/1.1[0m" 404 -
+2024-11-07 17:06:38,163 - werkzeug - INFO - 127.0.0.1 - - [07/Nov/2024 17:06:38] "GET /api/deseq2 HTTP/1.1" 200 -
+2024-11-07 17:15:42,264 - werkzeug - INFO - 127.0.0.1 - - [07/Nov/2024 17:15:42] "[33mGET /api/top_expressed HTTP/1.1[0m" 404 -
+2024-11-07 17:15:43,125 - werkzeug - INFO - 127.0.0.1 - - [07/Nov/2024 17:15:43] "[33mGET /api/top_expressed HTTP/1.1[0m" 404 -
+2024-11-07 17:19:33,715 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-07 17:19:33,716 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-07 17:19:33,738 - root - INFO - Filtered data shape: (500, 60)
+2024-11-07 17:19:33,738 - root - INFO - Filtered data shape: (500, 60)
+2024-11-07 17:19:33,824 - werkzeug - INFO - 127.0.0.1 - - [07/Nov/2024 17:19:33] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-07 17:19:33,825 - werkzeug - INFO - 127.0.0.1 - - [07/Nov/2024 17:19:33] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-07 17:20:03,146 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-07 17:20:03,147 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-07 17:20:03,161 - root - INFO - Filtered data shape: (500, 60)
+2024-11-07 17:20:03,162 - root - INFO - Filtered data shape: (500, 60)
+2024-11-07 17:20:03,308 - werkzeug - INFO - 127.0.0.1 - - [07/Nov/2024 17:20:03] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-07 17:20:03,328 - werkzeug - INFO - 127.0.0.1 - - [07/Nov/2024 17:20:03] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-07 17:20:30,532 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-07 17:20:30,542 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-07 17:20:30,553 - root - INFO - Filtered data shape: (500, 60)
+2024-11-07 17:20:30,560 - root - INFO - Filtered data shape: (500, 60)
+2024-11-07 17:20:30,581 - werkzeug - INFO - 127.0.0.1 - - [07/Nov/2024 17:20:30] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-07 17:20:30,928 - werkzeug - INFO - 127.0.0.1 - - [07/Nov/2024 17:20:30] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-07 17:20:58,507 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-07 17:20:58,562 - root - INFO - Filtered data shape: (500, 60)
+2024-11-07 17:20:58,606 - werkzeug - INFO - 127.0.0.1 - - [07/Nov/2024 17:20:58] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-07 17:20:58,732 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-07 17:20:58,743 - root - INFO - Filtered data shape: (500, 60)
+2024-11-07 17:20:58,766 - werkzeug - INFO - 127.0.0.1 - - [07/Nov/2024 17:20:58] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-07 17:23:24,755 - werkzeug - INFO - 127.0.0.1 - - [07/Nov/2024 17:23:24] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-07 17:23:24,756 - werkzeug - INFO - 127.0.0.1 - - [07/Nov/2024 17:23:24] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-07 17:23:24,796 - root - INFO - Significant genes to submit: ['WNT16', 'KLHL13', 'SLC7A2', 'ABCC8', 'TAC1', 'CACNA1G', 'SCN4A', 'TENM1', 'HHATL', 'NPC1L1', 'CLCA4', 'ATP1A2', 'MUSK', 'LRRC7', 'EFCAB1', 'MYOC', 'MYOM2', 'ARHGAP6', 'LAMC3', 'CBLN4', 'ITIH1', 'PHF21B', 'SERPINB3', 'RIMBP2', 'COL11A1', 'COL17A1', 'ASPM']
+2024-11-07 17:23:24,800 - root - INFO - Submitting gene list to Enrichr
+2024-11-07 17:23:24,799 - root - INFO - Significant genes to submit: ['WNT16', 'KLHL13', 'SLC7A2', 'ABCC8', 'TAC1', 'CACNA1G', 'SCN4A', 'TENM1', 'HHATL', 'NPC1L1', 'CLCA4', 'ATP1A2', 'MUSK', 'LRRC7', 'EFCAB1', 'MYOC', 'MYOM2', 'ARHGAP6', 'LAMC3', 'CBLN4', 'ITIH1', 'PHF21B', 'SERPINB3', 'RIMBP2', 'COL11A1', 'COL17A1', 'ASPM']
+2024-11-07 17:23:24,808 - root - INFO - Submitting gene list to Enrichr
+2024-11-07 17:23:24,961 - root - ERROR - Error running Enrichr analysis: HTTPSConnectionPool(host='maayanlab.cloud', port=443): Max retries exceeded with url: /Enrichr/addList (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x13c3cfec0>: Failed to resolve 'maayanlab.cloud' ([Errno 8] nodename nor servname provided, or not known)"))
+Traceback (most recent call last):
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/urllib3/connection.py", line 199, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/urllib3/util/connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.12/3.12.7/Frameworks/Python.framework/Versions/3.12/lib/python3.12/socket.py", line 976, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 789, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 490, in _make_request
+    raise new_e
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 466, in _make_request
+    self._validate_conn(conn)
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 1095, in _validate_conn
+    conn.connect()
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/urllib3/connection.py", line 693, in connect
+    self.sock = sock = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/urllib3/connection.py", line 206, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x13c3cfec0>: Failed to resolve 'maayanlab.cloud' ([Errno 8] nodename nor servname provided, or not known)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/requests/adapters.py", line 667, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 843, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/urllib3/util/retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='maayanlab.cloud', port=443): Max retries exceeded with url: /Enrichr/addList (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x13c3cfec0>: Failed to resolve 'maayanlab.cloud' ([Errno 8] nodename nor servname provided, or not known)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/macbookair/Documents/genomic-data-dashboard/src/backend/app.py", line 356, in run_enrichr_analysis
+    enrichr_data = submit_to_enrichr(payload)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbookair/Documents/genomic-data-dashboard/src/backend/app.py", line 78, in submit_to_enrichr
+    response = requests.post(ENRICHR_ADD_LIST_URL, files=payload, timeout=10)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/requests/api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/requests/adapters.py", line 700, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='maayanlab.cloud', port=443): Max retries exceeded with url: /Enrichr/addList (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x13c3cfec0>: Failed to resolve 'maayanlab.cloud' ([Errno 8] nodename nor servname provided, or not known)"))
+2024-11-07 17:23:25,007 - werkzeug - INFO - 127.0.0.1 - - [07/Nov/2024 17:23:25] "[35m[1mPOST /api/enrichr_full_analysis HTTP/1.1[0m" 500 -
+2024-11-07 17:23:25,224 - root - INFO - Enrichr userListId: 85533785
+2024-11-07 17:23:25,453 - werkzeug - INFO - 127.0.0.1 - - [07/Nov/2024 17:23:25] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-08 15:21:30,316 - werkzeug - INFO - 127.0.0.1 - - [08/Nov/2024 15:21:30] "GET /api/design_info HTTP/1.1" 200 -
+2024-11-13 16:58:32,850 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-13 16:58:32,850 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-11-13 17:00:39,692 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-13 17:00:39,705 - root - INFO - Filtered data shape: (500, 60)
+2024-11-13 17:00:39,733 - werkzeug - INFO - 127.0.0.1 - - [13/Nov/2024 17:00:39] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-13 17:00:42,566 - data_processor - ERROR - Error getting top expressed genes: DESeq2 results file not found. Please run DESeq2 analysis first.
+2024-11-13 17:00:42,567 - app - ERROR - Error in top_expressed endpoint: DESeq2 results file not found. Please run DESeq2 analysis first.
+2024-11-13 17:00:42,568 - werkzeug - INFO - 127.0.0.1 - - [13/Nov/2024 17:00:42] "[35m[1mGET /api/top-expressed HTTP/1.1[0m" 500 -
+2024-11-13 17:02:16,522 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-13 17:02:16,522 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-11-13 17:02:47,159 - app - ERROR - Error in top_expressed endpoint: 'DataProcessor' object has no attribute 'run_deseq2_analysis'
+2024-11-13 17:02:47,162 - werkzeug - INFO - 127.0.0.1 - - [13/Nov/2024 17:02:47] "[35m[1mGET /api/top-expressed HTTP/1.1[0m" 500 -
+2024-11-13 17:02:48,430 - app - ERROR - Error in top_expressed endpoint: 'DataProcessor' object has no attribute 'run_deseq2_analysis'
+2024-11-13 17:02:48,431 - werkzeug - INFO - 127.0.0.1 - - [13/Nov/2024 17:02:48] "[35m[1mGET /api/top-expressed HTTP/1.1[0m" 500 -
+2024-11-13 17:04:53,449 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-13 17:04:53,449 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-11-13 17:05:00,862 - data_processor - ERROR - Error running DESeq2 analysis: Count data file not found
+2024-11-13 17:05:00,863 - werkzeug - INFO - 127.0.0.1 - - [13/Nov/2024 17:05:00] "[35m[1mGET /api/top-expressed HTTP/1.1[0m" 500 -
+2024-11-13 17:05:01,939 - data_processor - ERROR - Error running DESeq2 analysis: Count data file not found
+2024-11-13 17:05:01,941 - werkzeug - INFO - 127.0.0.1 - - [13/Nov/2024 17:05:01] "[35m[1mGET /api/top-expressed HTTP/1.1[0m" 500 -
+2024-11-13 17:05:02,139 - data_processor - ERROR - Error running DESeq2 analysis: Count data file not found
+2024-11-13 17:05:02,139 - werkzeug - INFO - 127.0.0.1 - - [13/Nov/2024 17:05:02] "[35m[1mGET /api/top-expressed HTTP/1.1[0m" 500 -
+2024-11-13 17:05:02,701 - data_processor - ERROR - Error running DESeq2 analysis: Count data file not found
+2024-11-13 17:05:02,702 - werkzeug - INFO - 127.0.0.1 - - [13/Nov/2024 17:05:02] "[35m[1mGET /api/top-expressed HTTP/1.1[0m" 500 -
+2024-11-14 12:12:34,274 - data_processor - ERROR - Error running DESeq2 analysis: Count data file not found
+2024-11-14 12:12:34,276 - werkzeug - INFO - 127.0.0.1 - - [14/Nov/2024 12:12:34] "[35m[1mGET /api/top-expressed HTTP/1.1[0m" 500 -
+2024-11-14 15:00:15,576 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-14 15:00:15,576 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-11-14 15:00:23,343 - data_processor - INFO - Checking files:
+2024-11-14 15:00:23,343 - data_processor - INFO - Count file exists: False
+2024-11-14 15:00:23,343 - data_processor - INFO - Design file exists: False
+2024-11-14 15:00:23,344 - data_processor - INFO - R script exists: True
+2024-11-14 15:00:23,344 - data_processor - ERROR - Error running DESeq2 analysis: Count data file not found at /Users/macbookair/Documents/genomic-data-dashboard/src/data/raw_counts.csv
+2024-11-14 15:00:23,344 - werkzeug - INFO - 127.0.0.1 - - [14/Nov/2024 15:00:23] "[35m[1mGET /api/top-expressed HTTP/1.1[0m" 500 -
+2024-11-14 15:09:47,019 - data_processor - INFO - Initialized with data directory: /Users/macbookair/Documents/genomic-data-dashboard/data
+2024-11-14 15:09:47,019 - data_processor - INFO - R script path: /Users/macbookair/Documents/genomic-data-dashboard/src/backend/deseq2_analysis.R
+2024-11-14 15:09:47,023 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-14 15:09:47,023 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-11-14 15:10:04,967 - data_processor - INFO - Initialized with data directory: /Users/macbookair/Documents/genomic-data-dashboard/data
+2024-11-14 15:10:04,967 - data_processor - INFO - R script path: /Users/macbookair/Documents/genomic-data-dashboard/src/backend/deseq2_analysis.R
+2024-11-14 15:10:04,971 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-14 15:10:04,971 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-11-14 15:10:11,894 - data_processor - ERROR - Error getting top expressed genes: 'baseMean'
+2024-11-14 15:10:11,894 - app - ERROR - Error in top_expressed endpoint: 'baseMean'
+2024-11-14 15:10:11,895 - werkzeug - INFO - 127.0.0.1 - - [14/Nov/2024 15:10:11] "[35m[1mGET /api/top-expressed HTTP/1.1[0m" 500 -
+2024-11-14 15:10:36,005 - werkzeug - INFO - 127.0.0.1 - - [14/Nov/2024 15:10:36] "GET /api/debug-paths HTTP/1.1" 200 -
+2024-11-14 15:28:59,532 - data_processor - INFO - Initialized with data directory: /Users/macbookair/Documents/genomic-data-dashboard/data
+2024-11-14 15:28:59,532 - data_processor - INFO - R script path: /Users/macbookair/Documents/genomic-data-dashboard/src/backend/deseq2_analysis.R
+2024-11-14 15:28:59,712 - data_processor - INFO - R version: 
+2024-11-14 15:28:59,952 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-14 15:28:59,952 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-11-14 15:29:05,954 - werkzeug - INFO - 127.0.0.1 - - [14/Nov/2024 15:29:05] "GET /api/debug-paths HTTP/1.1" 200 -
+2024-11-14 15:29:13,800 - werkzeug - INFO - 127.0.0.1 - - [14/Nov/2024 15:29:13] "GET /api/deseq2 HTTP/1.1" 200 -
+2024-11-14 15:29:16,454 - werkzeug - INFO - 127.0.0.1 - - [14/Nov/2024 15:29:16] "[33mGET /api/top_expressed HTTP/1.1[0m" 404 -
+2024-11-14 15:29:17,185 - werkzeug - INFO - 127.0.0.1 - - [14/Nov/2024 15:29:17] "[33mGET /api/top_expressed HTTP/1.1[0m" 404 -
+2024-11-14 15:30:27,042 - werkzeug - INFO - 127.0.0.1 - - [14/Nov/2024 15:30:27] "GET /api/top-expressed HTTP/1.1" 200 -
+2024-11-14 15:31:03,552 - werkzeug - INFO - 127.0.0.1 - - [14/Nov/2024 15:31:03] "GET /api/deseq2 HTTP/1.1" 200 -
+2024-11-14 15:31:03,561 - werkzeug - INFO - 127.0.0.1 - - [14/Nov/2024 15:31:03] "GET /api/deseq2 HTTP/1.1" 200 -
+2024-11-14 15:32:48,848 - werkzeug - INFO - 127.0.0.1 - - [14/Nov/2024 15:32:48] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-14 15:32:48,851 - werkzeug - INFO - 127.0.0.1 - - [14/Nov/2024 15:32:48] "GET /api/data HTTP/1.1" 200 -
+2024-11-14 15:32:49,568 - werkzeug - INFO - 127.0.0.1 - - [14/Nov/2024 15:32:49] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-14 15:32:49,571 - werkzeug - INFO - 127.0.0.1 - - [14/Nov/2024 15:32:49] "GET /api/data HTTP/1.1" 200 -
+2024-11-14 15:32:50,037 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-14 15:32:50,055 - root - INFO - Filtered data shape: (500, 60)
+2024-11-14 15:32:50,091 - werkzeug - INFO - 127.0.0.1 - - [14/Nov/2024 15:32:50] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-14 15:32:50,210 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-14 15:32:50,219 - root - INFO - Filtered data shape: (500, 60)
+2024-11-14 15:32:50,242 - werkzeug - INFO - 127.0.0.1 - - [14/Nov/2024 15:32:50] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-14 15:33:50,149 - werkzeug - INFO - 127.0.0.1 - - [14/Nov/2024 15:33:50] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-14 15:33:50,151 - werkzeug - INFO - 127.0.0.1 - - [14/Nov/2024 15:33:50] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-14 15:33:50,187 - root - INFO - Significant genes to submit: ['WNT16', 'KLHL13', 'SLC7A2', 'ABCC8', 'TAC1', 'CACNA1G', 'SCN4A', 'TENM1', 'HHATL', 'NPC1L1', 'CLCA4', 'ATP1A2', 'MUSK', 'LRRC7', 'EFCAB1', 'MYOC', 'MYOM2', 'ARHGAP6', 'LAMC3', 'CBLN4', 'ITIH1', 'PHF21B', 'SERPINB3', 'RIMBP2', 'COL11A1', 'COL17A1', 'ASPM']
+2024-11-14 15:33:50,187 - root - INFO - Submitting gene list to Enrichr
+2024-11-14 15:33:50,227 - root - INFO - Significant genes to submit: ['WNT16', 'KLHL13', 'SLC7A2', 'ABCC8', 'TAC1', 'CACNA1G', 'SCN4A', 'TENM1', 'HHATL', 'NPC1L1', 'CLCA4', 'ATP1A2', 'MUSK', 'LRRC7', 'EFCAB1', 'MYOC', 'MYOM2', 'ARHGAP6', 'LAMC3', 'CBLN4', 'ITIH1', 'PHF21B', 'SERPINB3', 'RIMBP2', 'COL11A1', 'COL17A1', 'ASPM']
+2024-11-14 15:33:50,232 - root - INFO - Submitting gene list to Enrichr
+2024-11-14 15:33:50,875 - root - INFO - Enrichr userListId: 85825080
+2024-11-14 15:33:50,875 - root - INFO - Enrichr userListId: 85825079
+2024-11-14 15:33:51,285 - werkzeug - INFO - 127.0.0.1 - - [14/Nov/2024 15:33:51] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-14 15:33:51,287 - werkzeug - INFO - 127.0.0.1 - - [14/Nov/2024 15:33:51] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-14 15:47:04,999 - werkzeug - INFO - 127.0.0.1 - - [14/Nov/2024 15:47:04] "GET /api/top-expressed?top_n=10 HTTP/1.1" 200 -
+2024-11-14 15:47:05,005 - werkzeug - INFO - 127.0.0.1 - - [14/Nov/2024 15:47:05] "GET /api/top-expressed?top_n=10 HTTP/1.1" 200 -
+2024-11-14 15:47:38,768 - werkzeug - INFO - 127.0.0.1 - - [14/Nov/2024 15:47:38] "GET /api/top-expressed?top_n=20 HTTP/1.1" 200 -
+2024-11-14 15:47:40,609 - werkzeug - INFO - 127.0.0.1 - - [14/Nov/2024 15:47:40] "GET /api/top-expressed?top_n=10 HTTP/1.1" 200 -
+2024-11-14 15:47:44,296 - werkzeug - INFO - 127.0.0.1 - - [14/Nov/2024 15:47:44] "GET /api/top-expressed?top_n=5 HTTP/1.1" 200 -
+2024-11-14 15:47:46,110 - werkzeug - INFO - 127.0.0.1 - - [14/Nov/2024 15:47:46] "GET /api/top-expressed?top_n=10 HTTP/1.1" 200 -
+2024-11-14 15:49:04,059 - werkzeug - INFO - 127.0.0.1 - - [14/Nov/2024 15:49:04] "GET /api/top-expressed?top_n=20 HTTP/1.1" 200 -
+2024-11-14 15:49:08,002 - werkzeug - INFO - 127.0.0.1 - - [14/Nov/2024 15:49:08] "GET /api/top-expressed?top_n=5 HTTP/1.1" 200 -
+2024-11-14 15:49:09,792 - werkzeug - INFO - 127.0.0.1 - - [14/Nov/2024 15:49:09] "GET /api/top-expressed?top_n=10 HTTP/1.1" 200 -
+2024-11-14 15:51:10,339 - werkzeug - INFO - 127.0.0.1 - - [14/Nov/2024 15:51:10] "GET /api/data HTTP/1.1" 200 -
+2024-11-14 15:51:10,825 - werkzeug - INFO - 127.0.0.1 - - [14/Nov/2024 15:51:10] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-14 15:51:11,121 - werkzeug - INFO - 127.0.0.1 - - [14/Nov/2024 15:51:11] "GET /api/data HTTP/1.1" 200 -
+2024-11-14 15:51:11,684 - werkzeug - INFO - 127.0.0.1 - - [14/Nov/2024 15:51:11] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-14 15:51:12,817 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-14 15:51:12,844 - root - INFO - Filtered data shape: (500, 60)
+2024-11-14 15:51:12,899 - werkzeug - INFO - 127.0.0.1 - - [14/Nov/2024 15:51:12] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-14 15:51:13,031 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-14 15:51:13,040 - root - INFO - Filtered data shape: (500, 60)
+2024-11-14 15:51:13,065 - werkzeug - INFO - 127.0.0.1 - - [14/Nov/2024 15:51:13] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-14 15:54:32,048 - werkzeug - INFO - 127.0.0.1 - - [14/Nov/2024 15:54:32] "GET /api/top-expressed?top_n=10 HTTP/1.1" 200 -
+2024-11-14 15:54:32,060 - werkzeug - INFO - 127.0.0.1 - - [14/Nov/2024 15:54:32] "GET /api/top-expressed?top_n=10 HTTP/1.1" 200 -
+2024-11-14 15:54:41,247 - werkzeug - INFO - 127.0.0.1 - - [14/Nov/2024 15:54:41] "GET /api/deseq2 HTTP/1.1" 200 -
+2024-11-14 15:54:41,257 - werkzeug - INFO - 127.0.0.1 - - [14/Nov/2024 15:54:41] "GET /api/deseq2 HTTP/1.1" 200 -
+2024-11-15 12:19:58,844 - werkzeug - INFO - 127.0.0.1 - - [15/Nov/2024 12:19:58] "GET /api/data HTTP/1.1" 200 -
+2024-11-15 12:19:59,401 - werkzeug - INFO - 127.0.0.1 - - [15/Nov/2024 12:19:59] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-15 12:19:59,994 - werkzeug - INFO - 127.0.0.1 - - [15/Nov/2024 12:19:59] "GET /api/data HTTP/1.1" 200 -
+2024-11-15 12:20:00,519 - werkzeug - INFO - 127.0.0.1 - - [15/Nov/2024 12:20:00] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-16 16:19:14,962 - data_processor - INFO - Initialized with data directory: /Users/macbookair/Documents/genomic-data-dashboard/data
+2024-11-16 16:19:14,962 - data_processor - INFO - R script path: /Users/macbookair/Documents/genomic-data-dashboard/src/backend/deseq2_analysis.R
+2024-11-16 16:19:15,204 - data_processor - INFO - R version: 
+2024-11-16 16:19:15,441 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-16 16:19:15,441 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-11-16 16:19:28,641 - app - ERROR - Error checking tool status: name 'GENOMIC_TOOLS' is not defined
+2024-11-16 16:19:28,641 - app - ERROR - Exception on /api/genomic-tools/status [GET]
+Traceback (most recent call last):
+  File "/Users/macbookair/Documents/genomic-data-dashboard/src/backend/app.py", line 628, in check_tool_status
+    for tool, config in GENOMIC_TOOLS.items():
+                        ^^^^^^^^^^^^^
+NameError: name 'GENOMIC_TOOLS' is not defined
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/flask_cors/extension.py", line 194, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ^^^^^^^^^^^^^^^^^^
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbookair/Documents/genomic-data-dashboard/src/backend/app.py", line 653, in check_tool_status
+    return create_response(False, str(e), status_code=500)
+           ^^^^^^^^^^^^^^^
+NameError: name 'create_response' is not defined
+2024-11-16 16:19:28,668 - werkzeug - INFO - 127.0.0.1 - - [16/Nov/2024 16:19:28] "[35m[1mGET /api/genomic-tools/status HTTP/1.1[0m" 500 -
+2024-11-16 16:19:29,848 - werkzeug - INFO - 127.0.0.1 - - [16/Nov/2024 16:19:29] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-11-16 16:55:42,806 - data_processor - INFO - Initialized with data directory: /Users/macbookair/Documents/genomic-data-dashboard/data
+2024-11-16 16:55:42,806 - data_processor - INFO - R script path: /Users/macbookair/Documents/genomic-data-dashboard/src/backend/deseq2_analysis.R
+2024-11-16 16:55:42,811 - data_processor - INFO - R version: 
+2024-11-16 16:55:42,992 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-16 16:55:42,992 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-11-16 16:56:08,617 - werkzeug - INFO - 127.0.0.1 - - [16/Nov/2024 16:56:08] "GET /api/genomic-tools/status HTTP/1.1" 200 -
+2024-11-16 16:59:37,296 - data_processor - INFO - Initialized with data directory: /Users/macbookair/Documents/genomic-data-dashboard/data
+2024-11-16 16:59:37,296 - data_processor - INFO - R script path: /Users/macbookair/Documents/genomic-data-dashboard/src/backend/deseq2_analysis.R
+2024-11-16 16:59:37,301 - data_processor - INFO - R version: 
+2024-11-16 16:59:37,465 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-16 16:59:37,465 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-11-16 16:59:43,631 - werkzeug - INFO - 127.0.0.1 - - [16/Nov/2024 16:59:43] "GET /api/genomic-tools/status HTTP/1.1" 200 -
+2024-11-16 17:08:03,762 - werkzeug - INFO - 127.0.0.1 - - [16/Nov/2024 17:08:03] "GET /api/genomic-tools/status HTTP/1.1" 200 -
+2024-11-18 15:35:39,551 - werkzeug - INFO - 127.0.0.1 - - [18/Nov/2024 15:35:39] "GET /api/top-expressed?top_n=10 HTTP/1.1" 200 -
+2024-11-18 15:35:39,565 - werkzeug - INFO - 127.0.0.1 - - [18/Nov/2024 15:35:39] "GET /api/top-expressed?top_n=10 HTTP/1.1" 200 -
+2024-11-18 22:01:33,959 - werkzeug - INFO - 127.0.0.1 - - [18/Nov/2024 22:01:33] "GET /api/data HTTP/1.1" 200 -
+2024-11-18 22:01:33,974 - werkzeug - INFO - 127.0.0.1 - - [18/Nov/2024 22:01:33] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-18 22:01:34,200 - werkzeug - INFO - 127.0.0.1 - - [18/Nov/2024 22:01:34] "GET /api/data HTTP/1.1" 200 -
+2024-11-18 22:01:34,647 - werkzeug - INFO - 127.0.0.1 - - [18/Nov/2024 22:01:34] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-20 12:49:46,481 - data_processor - INFO - Initialized with data directory: /Users/macbookair/Documents/genomic-data-dashboard/data
+2024-11-20 12:49:46,481 - data_processor - INFO - R script path: /Users/macbookair/Documents/genomic-data-dashboard/src/backend/deseq2_analysis.R
+2024-11-20 12:49:46,807 - data_processor - INFO - R version: 
+2024-11-20 12:49:47,038 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-20 12:49:47,038 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-11-20 12:49:57,387 - werkzeug - INFO - 127.0.0.1 - - [20/Nov/2024 12:49:57] "GET /api/genomic-tools/status HTTP/1.1" 200 -
+2024-11-23 22:42:32,742 - data_processor - INFO - Initialized with data directory: /Users/macbookair/Documents/genomic-data-dashboard/data
+2024-11-23 22:42:32,743 - data_processor - INFO - R script path: /Users/macbookair/Documents/genomic-data-dashboard/src/backend/deseq2_analysis.R
+2024-11-23 22:42:32,958 - data_processor - INFO - R version: 
+2024-11-23 22:42:35,043 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-23 22:42:35,043 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-11-23 22:42:44,499 - werkzeug - INFO - 127.0.0.1 - - [23/Nov/2024 22:42:44] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-23 22:42:44,501 - werkzeug - INFO - 127.0.0.1 - - [23/Nov/2024 22:42:44] "GET /api/data HTTP/1.1" 200 -
+2024-11-23 22:42:44,688 - werkzeug - INFO - 127.0.0.1 - - [23/Nov/2024 22:42:44] "GET /api/data HTTP/1.1" 200 -
+2024-11-23 22:42:45,174 - werkzeug - INFO - 127.0.0.1 - - [23/Nov/2024 22:42:45] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-23 22:42:46,044 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-23 22:42:46,059 - root - INFO - Filtered data shape: (500, 60)
+2024-11-23 22:42:46,085 - werkzeug - INFO - 127.0.0.1 - - [23/Nov/2024 22:42:46] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-23 22:42:46,215 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-23 22:42:46,224 - root - INFO - Filtered data shape: (500, 60)
+2024-11-23 22:42:46,248 - werkzeug - INFO - 127.0.0.1 - - [23/Nov/2024 22:42:46] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-23 22:43:57,014 - werkzeug - INFO - 127.0.0.1 - - [23/Nov/2024 22:43:57] "POST /api/upload_design HTTP/1.1" 200 -
+2024-11-23 22:44:31,623 - werkzeug - INFO - 127.0.0.1 - - [23/Nov/2024 22:44:31] "POST /api/upload_design HTTP/1.1" 200 -
+2024-11-23 22:46:49,107 - data_processor - INFO - Filtered data shape: (20098, 60)
+2024-11-23 22:46:50,465 - werkzeug - INFO - 127.0.0.1 - - [23/Nov/2024 22:46:50] "POST /api/upload/raw_counts HTTP/1.1" 200 -
+2024-11-25 19:53:16,140 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 19:53:16] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-25 19:53:16,147 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 19:53:16] "GET /api/data HTTP/1.1" 200 -
+2024-11-25 19:53:16,884 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 19:53:16] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-25 19:53:16,891 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 19:53:16] "GET /api/data HTTP/1.1" 200 -
+2024-11-25 19:54:33,907 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 19:54:33] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-25 19:54:33,915 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 19:54:33] "GET /api/data HTTP/1.1" 200 -
+2024-11-25 19:54:34,095 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 19:54:34] "GET /api/data HTTP/1.1" 200 -
+2024-11-25 19:54:34,550 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 19:54:34] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-25 20:16:52,161 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 20:16:52] "GET /api/data HTTP/1.1" 200 -
+2024-11-25 20:16:52,857 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 20:16:52] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-25 20:16:53,079 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 20:16:53] "GET /api/data HTTP/1.1" 200 -
+2024-11-25 20:16:53,544 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 20:16:53] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-25 20:17:01,197 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-25 20:17:01,212 - root - INFO - Filtered data shape: (500, 60)
+2024-11-25 20:17:01,239 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 20:17:01] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-25 20:17:01,384 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-25 20:17:01,393 - root - INFO - Filtered data shape: (500, 60)
+2024-11-25 20:17:01,416 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 20:17:01] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-25 20:18:03,938 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-25 20:18:03,973 - root - INFO - Filtered data shape: (500, 60)
+2024-11-25 20:18:04,009 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 20:18:04] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-25 20:18:04,164 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-25 20:18:04,174 - root - INFO - Filtered data shape: (500, 60)
+2024-11-25 20:18:04,197 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 20:18:04] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-25 20:21:24,339 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 20:21:24] "GET /api/top-expressed?top_n=10 HTTP/1.1" 200 -
+2024-11-25 20:21:24,354 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 20:21:24] "GET /api/top-expressed?top_n=10 HTTP/1.1" 200 -
+2024-11-25 20:22:39,398 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 20:22:39] "GET /api/top-expressed?top_n=20 HTTP/1.1" 200 -
+2024-11-25 20:22:41,055 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 20:22:41] "GET /api/top-expressed?top_n=50 HTTP/1.1" 200 -
+2024-11-25 20:22:42,903 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 20:22:42] "GET /api/top-expressed?top_n=10 HTTP/1.1" 200 -
+2024-11-25 20:22:44,618 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 20:22:44] "GET /api/deseq2 HTTP/1.1" 200 -
+2024-11-25 20:22:44,631 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 20:22:44] "GET /api/deseq2 HTTP/1.1" 200 -
+2024-11-25 20:22:50,441 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 20:22:50] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-25 20:22:50,441 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 20:22:50] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-25 20:22:50,448 - root - INFO - Significant genes to submit: ['WNT16', 'KLHL13', 'SLC7A2', 'ABCC8', 'TAC1', 'CACNA1G', 'SCN4A', 'TENM1', 'HHATL', 'NPC1L1', 'CLCA4', 'ATP1A2', 'MUSK', 'LRRC7', 'EFCAB1', 'MYOC', 'MYOM2', 'ARHGAP6', 'LAMC3', 'CBLN4', 'ITIH1', 'PHF21B', 'SERPINB3', 'RIMBP2', 'COL11A1', 'COL17A1', 'ASPM']
+2024-11-25 20:22:50,450 - root - INFO - Submitting gene list to Enrichr
+2024-11-25 20:22:50,451 - root - INFO - Significant genes to submit: ['WNT16', 'KLHL13', 'SLC7A2', 'ABCC8', 'TAC1', 'CACNA1G', 'SCN4A', 'TENM1', 'HHATL', 'NPC1L1', 'CLCA4', 'ATP1A2', 'MUSK', 'LRRC7', 'EFCAB1', 'MYOC', 'MYOM2', 'ARHGAP6', 'LAMC3', 'CBLN4', 'ITIH1', 'PHF21B', 'SERPINB3', 'RIMBP2', 'COL11A1', 'COL17A1', 'ASPM']
+2024-11-25 20:22:50,452 - root - INFO - Submitting gene list to Enrichr
+2024-11-25 20:22:50,823 - root - INFO - Enrichr userListId: 86107842
+2024-11-25 20:22:50,823 - root - INFO - Enrichr userListId: 86107843
+2024-11-25 20:22:51,070 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 20:22:51] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-25 20:22:51,104 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 20:22:51] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-25 20:32:32,101 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 20:32:32] "GET /api/data HTTP/1.1" 200 -
+2024-11-25 20:32:32,573 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 20:32:32] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-25 20:32:32,783 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 20:32:32] "GET /api/data HTTP/1.1" 200 -
+2024-11-25 20:32:33,278 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 20:32:33] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-25 21:55:52,546 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 21:55:52] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-25 21:55:52,549 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 21:55:52] "GET /api/data HTTP/1.1" 200 -
+2024-11-25 21:55:53,339 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 21:55:53] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-25 21:55:53,351 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 21:55:53] "GET /api/data HTTP/1.1" 200 -
+2024-11-25 21:56:44,233 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-25 21:56:44,251 - root - INFO - Filtered data shape: (500, 60)
+2024-11-25 21:56:44,282 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 21:56:44] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-25 21:56:44,592 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-11-25 21:56:44,606 - root - INFO - Filtered data shape: (500, 60)
+2024-11-25 21:56:44,656 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 21:56:44] "GET /api/clustering HTTP/1.1" 200 -
+2024-11-25 21:56:50,304 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 21:56:50] "GET /api/top-expressed?top_n=10 HTTP/1.1" 200 -
+2024-11-25 21:56:50,311 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 21:56:50] "GET /api/top-expressed?top_n=10 HTTP/1.1" 200 -
+2024-11-25 21:56:52,817 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 21:56:52] "GET /api/top-expressed?top_n=20 HTTP/1.1" 200 -
+2024-11-25 21:56:55,201 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 21:56:55] "GET /api/deseq2 HTTP/1.1" 200 -
+2024-11-25 21:56:55,211 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 21:56:55] "GET /api/deseq2 HTTP/1.1" 200 -
+2024-11-25 21:57:00,670 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 21:57:00] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-25 21:57:00,685 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 21:57:00] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-25 21:57:00,692 - root - INFO - Significant genes to submit: ['WNT16', 'KLHL13', 'SLC7A2', 'ABCC8', 'TAC1', 'CACNA1G', 'SCN4A', 'TENM1', 'HHATL', 'NPC1L1', 'CLCA4', 'ATP1A2', 'MUSK', 'LRRC7', 'EFCAB1', 'MYOC', 'MYOM2', 'ARHGAP6', 'LAMC3', 'CBLN4', 'ITIH1', 'PHF21B', 'SERPINB3', 'RIMBP2', 'COL11A1', 'COL17A1', 'ASPM']
+2024-11-25 21:57:00,692 - root - INFO - Submitting gene list to Enrichr
+2024-11-25 21:57:00,701 - root - INFO - Significant genes to submit: ['WNT16', 'KLHL13', 'SLC7A2', 'ABCC8', 'TAC1', 'CACNA1G', 'SCN4A', 'TENM1', 'HHATL', 'NPC1L1', 'CLCA4', 'ATP1A2', 'MUSK', 'LRRC7', 'EFCAB1', 'MYOC', 'MYOM2', 'ARHGAP6', 'LAMC3', 'CBLN4', 'ITIH1', 'PHF21B', 'SERPINB3', 'RIMBP2', 'COL11A1', 'COL17A1', 'ASPM']
+2024-11-25 21:57:00,702 - root - INFO - Submitting gene list to Enrichr
+2024-11-25 21:57:01,013 - root - INFO - Enrichr userListId: 86109499
+2024-11-25 21:57:01,015 - root - INFO - Enrichr userListId: 86109500
+2024-11-25 21:57:01,269 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 21:57:01] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-25 21:57:01,269 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 21:57:01] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-25 22:03:22,100 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 22:03:22] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-25 22:03:22,103 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 22:03:22] "GET /api/data HTTP/1.1" 200 -
+2024-11-25 22:03:22,756 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 22:03:22] "GET /api/data HTTP/1.1" 200 -
+2024-11-25 22:03:22,756 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 22:03:22] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-25 22:03:55,875 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 22:03:55] "GET /api/top-expressed?top_n=10 HTTP/1.1" 200 -
+2024-11-25 22:03:55,886 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 22:03:55] "GET /api/top-expressed?top_n=10 HTTP/1.1" 200 -
+2024-11-25 22:04:02,620 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 22:04:02] "GET /api/top-expressed?top_n=50 HTTP/1.1" 200 -
+2024-11-25 22:04:05,041 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 22:04:05] "GET /api/deseq2 HTTP/1.1" 200 -
+2024-11-25 22:04:05,053 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 22:04:05] "GET /api/deseq2 HTTP/1.1" 200 -
+2024-11-25 22:15:21,637 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 22:15:21] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-25 22:15:21,638 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 22:15:21] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-25 22:15:21,648 - root - INFO - Significant genes to submit: ['WNT16', 'KLHL13', 'SLC7A2', 'ABCC8', 'TAC1', 'CACNA1G', 'SCN4A', 'TENM1', 'HHATL', 'NPC1L1', 'CLCA4', 'ATP1A2', 'MUSK', 'LRRC7', 'EFCAB1', 'MYOC', 'MYOM2', 'ARHGAP6', 'LAMC3', 'CBLN4', 'ITIH1', 'PHF21B', 'SERPINB3', 'RIMBP2', 'COL11A1', 'COL17A1', 'ASPM']
+2024-11-25 22:15:21,651 - root - INFO - Significant genes to submit: ['WNT16', 'KLHL13', 'SLC7A2', 'ABCC8', 'TAC1', 'CACNA1G', 'SCN4A', 'TENM1', 'HHATL', 'NPC1L1', 'CLCA4', 'ATP1A2', 'MUSK', 'LRRC7', 'EFCAB1', 'MYOC', 'MYOM2', 'ARHGAP6', 'LAMC3', 'CBLN4', 'ITIH1', 'PHF21B', 'SERPINB3', 'RIMBP2', 'COL11A1', 'COL17A1', 'ASPM']
+2024-11-25 22:15:21,651 - root - INFO - Submitting gene list to Enrichr
+2024-11-25 22:15:21,651 - root - INFO - Submitting gene list to Enrichr
+2024-11-25 22:15:21,943 - root - INFO - Enrichr userListId: 86109638
+2024-11-25 22:15:21,948 - root - INFO - Enrichr userListId: 86109639
+2024-11-25 22:15:22,173 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 22:15:22] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-25 22:15:22,173 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 22:15:22] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-26 00:00:07,150 - data_processor - INFO - Initialized with data directory: /Users/macbookair/Documents/genomic-data-dashboard/data
+2024-11-26 00:00:07,150 - data_processor - INFO - R script path: /Users/macbookair/Documents/genomic-data-dashboard/src/backend/deseq2_analysis.R
+2024-11-26 00:00:07,456 - data_processor - INFO - R version: 
+2024-11-26 00:00:07,704 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-26 00:00:07,704 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-11-26 00:00:16,391 - werkzeug - INFO - 127.0.0.1 - - [26/Nov/2024 00:00:16] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-26 00:00:16,392 - werkzeug - INFO - 127.0.0.1 - - [26/Nov/2024 00:00:16] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-26 00:00:16,400 - root - INFO - Found 27 significant genes
+2024-11-26 00:00:16,403 - root - INFO - Found 27 significant genes
+2024-11-26 00:00:16,403 - root - INFO - Number of significant genes found: 27
+2024-11-26 00:00:16,403 - root - INFO - Number of significant genes found: 27
+2024-11-26 00:00:16,404 - root - ERROR - Error running Enrichr analysis: Unsupported library. Please use one of: ['KEGG_2021_Human', 'GO_Biological_Process_2021', 'MSigDB_Hallmark_2020', 'WikiPathways_2019_Human']
+Traceback (most recent call last):
+  File "/Users/macbookair/Documents/genomic-data-dashboard/src/backend/app.py", line 413, in run_enrichr_analysis
+    raise ValueError(f"Unsupported library. Please use one of: {supported_libraries}")
+ValueError: Unsupported library. Please use one of: ['KEGG_2021_Human', 'GO_Biological_Process_2021', 'MSigDB_Hallmark_2020', 'WikiPathways_2019_Human']
+2024-11-26 00:00:16,404 - root - ERROR - Error running Enrichr analysis: Unsupported library. Please use one of: ['KEGG_2021_Human', 'GO_Biological_Process_2021', 'MSigDB_Hallmark_2020', 'WikiPathways_2019_Human']
+Traceback (most recent call last):
+  File "/Users/macbookair/Documents/genomic-data-dashboard/src/backend/app.py", line 413, in run_enrichr_analysis
+    raise ValueError(f"Unsupported library. Please use one of: {supported_libraries}")
+ValueError: Unsupported library. Please use one of: ['KEGG_2021_Human', 'GO_Biological_Process_2021', 'MSigDB_Hallmark_2020', 'WikiPathways_2019_Human']
+2024-11-26 00:00:16,406 - werkzeug - INFO - 127.0.0.1 - - [26/Nov/2024 00:00:16] "[35m[1mPOST /api/enrichr_full_analysis HTTP/1.1[0m" 500 -
+2024-11-26 00:00:16,407 - werkzeug - INFO - 127.0.0.1 - - [26/Nov/2024 00:00:16] "[35m[1mPOST /api/enrichr_full_analysis HTTP/1.1[0m" 500 -
+2024-11-26 00:00:18,918 - root - INFO - Found 27 significant genes
+2024-11-26 00:00:18,918 - root - INFO - Number of significant genes found: 27
+2024-11-26 00:00:18,919 - root - ERROR - Error running Enrichr analysis: Unsupported library. Please use one of: ['KEGG_2021_Human', 'GO_Biological_Process_2021', 'MSigDB_Hallmark_2020', 'WikiPathways_2019_Human']
+Traceback (most recent call last):
+  File "/Users/macbookair/Documents/genomic-data-dashboard/src/backend/app.py", line 413, in run_enrichr_analysis
+    raise ValueError(f"Unsupported library. Please use one of: {supported_libraries}")
+ValueError: Unsupported library. Please use one of: ['KEGG_2021_Human', 'GO_Biological_Process_2021', 'MSigDB_Hallmark_2020', 'WikiPathways_2019_Human']
+2024-11-26 00:00:18,920 - werkzeug - INFO - 127.0.0.1 - - [26/Nov/2024 00:00:18] "[35m[1mPOST /api/enrichr_full_analysis HTTP/1.1[0m" 500 -
+2024-11-26 00:00:18,924 - root - INFO - Found 27 significant genes
+2024-11-26 00:00:18,924 - root - INFO - Number of significant genes found: 27
+2024-11-26 00:00:18,924 - root - ERROR - Error running Enrichr analysis: Unsupported library. Please use one of: ['KEGG_2021_Human', 'GO_Biological_Process_2021', 'MSigDB_Hallmark_2020', 'WikiPathways_2019_Human']
+Traceback (most recent call last):
+  File "/Users/macbookair/Documents/genomic-data-dashboard/src/backend/app.py", line 413, in run_enrichr_analysis
+    raise ValueError(f"Unsupported library. Please use one of: {supported_libraries}")
+ValueError: Unsupported library. Please use one of: ['KEGG_2021_Human', 'GO_Biological_Process_2021', 'MSigDB_Hallmark_2020', 'WikiPathways_2019_Human']
+2024-11-26 00:00:18,925 - werkzeug - INFO - 127.0.0.1 - - [26/Nov/2024 00:00:18] "[35m[1mPOST /api/enrichr_full_analysis HTTP/1.1[0m" 500 -
+2024-11-26 00:22:25,849 - data_processor - INFO - Initialized with data directory: /Users/macbookair/Documents/genomic-data-dashboard/data
+2024-11-26 00:22:25,849 - data_processor - INFO - R script path: /Users/macbookair/Documents/genomic-data-dashboard/src/backend/deseq2_analysis.R
+2024-11-26 00:22:25,855 - data_processor - INFO - R version: 
+2024-11-26 00:22:26,041 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-26 00:22:26,041 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-11-26 00:25:33,884 - data_processor - INFO - Initialized with data directory: /Users/macbookair/Documents/genomic-data-dashboard/data
+2024-11-26 00:25:33,884 - data_processor - INFO - R script path: /Users/macbookair/Documents/genomic-data-dashboard/src/backend/deseq2_analysis.R
+2024-11-26 00:25:33,889 - data_processor - INFO - R version: 
+2024-11-26 00:25:34,056 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-26 00:25:34,056 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-11-26 00:31:59,426 - data_processor - INFO - Initialized with data directory: /Users/macbookair/Documents/genomic-data-dashboard/data
+2024-11-26 00:31:59,426 - data_processor - INFO - R script path: /Users/macbookair/Documents/genomic-data-dashboard/src/backend/deseq2_analysis.R
+2024-11-26 00:31:59,431 - data_processor - INFO - R version: 
+2024-11-26 00:31:59,598 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-26 00:31:59,598 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-11-26 00:39:56,634 - data_processor - INFO - Initialized with data directory: /Users/macbookair/Documents/genomic-data-dashboard/data
+2024-11-26 00:39:56,634 - data_processor - INFO - R script path: /Users/macbookair/Documents/genomic-data-dashboard/src/backend/deseq2_analysis.R
+2024-11-26 00:39:56,640 - data_processor - INFO - R version: 
+2024-11-26 00:39:56,821 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-26 00:39:56,821 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-11-26 00:47:02,878 - data_processor - INFO - Initialized with data directory: /Users/macbookair/Documents/genomic-data-dashboard/data
+2024-11-26 00:47:02,879 - data_processor - INFO - R script path: /Users/macbookair/Documents/genomic-data-dashboard/src/backend/deseq2_analysis.R
+2024-11-26 00:47:02,884 - data_processor - INFO - R version: 
+2024-11-26 00:47:03,068 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-26 00:47:03,068 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-11-26 00:47:23,327 - app - ERROR - Exception on /api/genomic-tools/status [GET]
+Traceback (most recent call last):
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/flask/app.py", line 854, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/flask/app.py", line 463, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/flask/ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/werkzeug/routing/map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/flask_cors/extension.py", line 194, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ^^^^^^^^^^^^^^^^^^
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/flask/app.py", line 765, in handle_user_exception
+    return self.handle_http_exception(e)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/flask/app.py", line 740, in handle_http_exception
+    return self.ensure_sync(handler)(e)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbookair/Documents/genomic-data-dashboard/src/backend/app.py", line 77, in handle_exception
+    logger.exception("Unhandled exception: %s", str(e))
+    ^^^^^^
+NameError: name 'logger' is not defined
+2024-11-26 00:47:23,356 - werkzeug - INFO - 127.0.0.1 - - [26/Nov/2024 00:47:23] "[35m[1mGET /api/genomic-tools/status HTTP/1.1[0m" 500 -
+2024-11-26 00:47:24,152 - app - ERROR - Exception on /favicon.ico [GET]
+Traceback (most recent call last):
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/flask/app.py", line 854, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/flask/app.py", line 463, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/flask/ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/werkzeug/routing/map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/flask_cors/extension.py", line 194, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ^^^^^^^^^^^^^^^^^^
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/flask/app.py", line 765, in handle_user_exception
+    return self.handle_http_exception(e)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/flask/app.py", line 740, in handle_http_exception
+    return self.ensure_sync(handler)(e)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbookair/Documents/genomic-data-dashboard/src/backend/app.py", line 77, in handle_exception
+    logger.exception("Unhandled exception: %s", str(e))
+    ^^^^^^
+NameError: name 'logger' is not defined
+2024-11-26 00:47:24,155 - werkzeug - INFO - 127.0.0.1 - - [26/Nov/2024 00:47:24] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2024-11-26 00:47:39,507 - werkzeug - INFO - 127.0.0.1 - - [26/Nov/2024 00:47:39] "GET /api/deseq2 HTTP/1.1" 200 -
+2024-11-26 00:47:39,954 - app - ERROR - Exception on /favicon.ico [GET]
+Traceback (most recent call last):
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/flask/app.py", line 854, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/flask/app.py", line 463, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/flask/ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/werkzeug/routing/map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/flask_cors/extension.py", line 194, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ^^^^^^^^^^^^^^^^^^
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/flask/app.py", line 765, in handle_user_exception
+    return self.handle_http_exception(e)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/flask/app.py", line 740, in handle_http_exception
+    return self.ensure_sync(handler)(e)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbookair/Documents/genomic-data-dashboard/src/backend/app.py", line 77, in handle_exception
+    logger.exception("Unhandled exception: %s", str(e))
+    ^^^^^^
+NameError: name 'logger' is not defined
+2024-11-26 00:47:39,962 - werkzeug - INFO - 127.0.0.1 - - [26/Nov/2024 00:47:39] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2024-11-26 00:49:01,011 - root - INFO - Found 27 significant genes
+2024-11-26 00:49:01,617 - werkzeug - INFO - 127.0.0.1 - - [26/Nov/2024 00:49:01] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-26 00:59:49,259 - werkzeug - INFO - 127.0.0.1 - - [26/Nov/2024 00:59:49] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-26 00:59:49,260 - werkzeug - INFO - 127.0.0.1 - - [26/Nov/2024 00:59:49] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-26 00:59:49,269 - root - INFO - Found 27 significant genes
+2024-11-26 00:59:49,275 - root - INFO - Found 27 significant genes
+2024-11-26 00:59:49,784 - werkzeug - INFO - 127.0.0.1 - - [26/Nov/2024 00:59:49] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-26 00:59:49,784 - werkzeug - INFO - 127.0.0.1 - - [26/Nov/2024 00:59:49] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-26 01:00:10,312 - werkzeug - INFO - 127.0.0.1 - - [26/Nov/2024 01:00:10] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-26 01:00:10,332 - root - INFO - Found 27 significant genes
+2024-11-26 01:00:10,939 - werkzeug - INFO - 127.0.0.1 - - [26/Nov/2024 01:00:10] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-26 01:00:16,070 - werkzeug - INFO - 127.0.0.1 - - [26/Nov/2024 01:00:16] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-26 01:00:16,077 - root - INFO - Found 27 significant genes
+2024-11-26 01:00:16,547 - werkzeug - INFO - 127.0.0.1 - - [26/Nov/2024 01:00:16] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-26 01:00:22,916 - werkzeug - INFO - 127.0.0.1 - - [26/Nov/2024 01:00:22] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-26 01:00:22,939 - root - INFO - Found 27 significant genes
+2024-11-26 01:00:23,421 - werkzeug - INFO - 127.0.0.1 - - [26/Nov/2024 01:00:23] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-26 01:01:13,850 - werkzeug - INFO - 127.0.0.1 - - [26/Nov/2024 01:01:13] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-26 01:01:13,860 - root - INFO - Found 27 significant genes
+2024-11-26 01:01:14,452 - werkzeug - INFO - 127.0.0.1 - - [26/Nov/2024 01:01:14] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-26 01:01:28,477 - werkzeug - INFO - 127.0.0.1 - - [26/Nov/2024 01:01:28] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-26 01:01:28,484 - root - INFO - Found 27 significant genes
+2024-11-26 01:01:28,944 - werkzeug - INFO - 127.0.0.1 - - [26/Nov/2024 01:01:28] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-26 01:04:47,534 - werkzeug - INFO - 127.0.0.1 - - [26/Nov/2024 01:04:47] "GET /api/data HTTP/1.1" 200 -
+2024-11-26 01:04:47,982 - werkzeug - INFO - 127.0.0.1 - - [26/Nov/2024 01:04:47] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-26 01:04:48,671 - werkzeug - INFO - 127.0.0.1 - - [26/Nov/2024 01:04:48] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-26 01:04:48,674 - werkzeug - INFO - 127.0.0.1 - - [26/Nov/2024 01:04:48] "GET /api/data HTTP/1.1" 200 -
+2024-11-26 01:04:50,596 - werkzeug - INFO - 127.0.0.1 - - [26/Nov/2024 01:04:50] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-26 01:04:50,601 - werkzeug - INFO - 127.0.0.1 - - [26/Nov/2024 01:04:50] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-26 01:04:50,673 - root - INFO - Found 27 significant genes
+2024-11-26 01:04:50,674 - root - INFO - Found 27 significant genes
+2024-11-26 01:04:51,166 - werkzeug - INFO - 127.0.0.1 - - [26/Nov/2024 01:04:51] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-26 01:04:51,166 - werkzeug - INFO - 127.0.0.1 - - [26/Nov/2024 01:04:51] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-26 01:04:55,316 - root - INFO - Found 27 significant genes
+2024-11-26 01:04:55,326 - root - INFO - Found 27 significant genes
+2024-11-26 01:04:55,777 - werkzeug - INFO - 127.0.0.1 - - [26/Nov/2024 01:04:55] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-26 01:04:55,788 - werkzeug - INFO - 127.0.0.1 - - [26/Nov/2024 01:04:55] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-26 01:05:02,841 - werkzeug - INFO - 127.0.0.1 - - [26/Nov/2024 01:05:02] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-26 01:05:02,865 - root - INFO - Found 27 significant genes
+2024-11-26 01:05:03,461 - werkzeug - INFO - 127.0.0.1 - - [26/Nov/2024 01:05:03] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-26 01:14:23,714 - app - ERROR - Exception on /api/enrichr_full_analysis [GET]
+Traceback (most recent call last):
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/flask/app.py", line 854, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/flask/app.py", line 463, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/flask/ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise MethodNotAllowed(valid_methods=list(e.have_match_for)) from None
+werkzeug.exceptions.MethodNotAllowed: 405 Method Not Allowed: The method is not allowed for the requested URL.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/flask_cors/extension.py", line 194, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ^^^^^^^^^^^^^^^^^^
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/flask/app.py", line 765, in handle_user_exception
+    return self.handle_http_exception(e)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/flask/app.py", line 740, in handle_http_exception
+    return self.ensure_sync(handler)(e)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbookair/Documents/genomic-data-dashboard/src/backend/app.py", line 77, in handle_exception
+    logger.exception("Unhandled exception: %s", str(e))
+    ^^^^^^
+NameError: name 'logger' is not defined
+2024-11-26 01:14:23,725 - werkzeug - INFO - 127.0.0.1 - - [26/Nov/2024 01:14:23] "[35m[1mGET /api/enrichr_full_analysis?content-type=application/json HTTP/1.1[0m" 500 -
+2024-11-26 01:14:36,540 - werkzeug - INFO - 127.0.0.1 - - [26/Nov/2024 01:14:36] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-26 01:14:36,540 - werkzeug - INFO - 127.0.0.1 - - [26/Nov/2024 01:14:36] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-26 01:14:36,549 - root - INFO - Found 27 significant genes
+2024-11-26 01:14:36,553 - root - INFO - Found 27 significant genes
+2024-11-26 01:14:37,074 - werkzeug - INFO - 127.0.0.1 - - [26/Nov/2024 01:14:37] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-26 01:14:37,079 - werkzeug - INFO - 127.0.0.1 - - [26/Nov/2024 01:14:37] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-26 01:15:20,366 - app - ERROR - Exception on /api/enrichr_full_analysis [GET]
+Traceback (most recent call last):
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/flask/app.py", line 854, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/flask/app.py", line 463, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/flask/ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise MethodNotAllowed(valid_methods=list(e.have_match_for)) from None
+werkzeug.exceptions.MethodNotAllowed: 405 Method Not Allowed: The method is not allowed for the requested URL.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/flask_cors/extension.py", line 194, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ^^^^^^^^^^^^^^^^^^
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/flask/app.py", line 765, in handle_user_exception
+    return self.handle_http_exception(e)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbookair/Documents/genomic-data-dashboard/venv/lib/python3.12/site-packages/flask/app.py", line 740, in handle_http_exception
+    return self.ensure_sync(handler)(e)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/macbookair/Documents/genomic-data-dashboard/src/backend/app.py", line 77, in handle_exception
+    logger.exception("Unhandled exception: %s", str(e))
+    ^^^^^^
+NameError: name 'logger' is not defined
+2024-11-26 01:15:20,371 - werkzeug - INFO - 127.0.0.1 - - [26/Nov/2024 01:15:20] "[35m[1mGET /api/enrichr_full_analysis?Content-Type=application/json HTTP/1.1[0m" 500 -
+2024-11-26 01:15:49,907 - root - INFO - Found 27 significant genes
+2024-11-26 01:15:50,370 - werkzeug - INFO - 127.0.0.1 - - [26/Nov/2024 01:15:50] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-26 01:25:45,014 - werkzeug - INFO - 127.0.0.1 - - [26/Nov/2024 01:25:45] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-26 01:25:45,024 - root - INFO - Found 27 significant genes
+2024-11-26 01:25:45,611 - werkzeug - INFO - 127.0.0.1 - - [26/Nov/2024 01:25:45] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-26 01:25:49,085 - root - INFO - Found 27 significant genes
+2024-11-26 01:25:49,553 - werkzeug - INFO - 127.0.0.1 - - [26/Nov/2024 01:25:49] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-26 01:25:53,220 - werkzeug - INFO - 127.0.0.1 - - [26/Nov/2024 01:25:53] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-26 01:25:53,241 - root - INFO - Found 27 significant genes
+2024-11-26 01:25:53,703 - werkzeug - INFO - 127.0.0.1 - - [26/Nov/2024 01:25:53] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-26 01:26:08,297 - werkzeug - INFO - 127.0.0.1 - - [26/Nov/2024 01:26:08] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-26 01:26:08,302 - werkzeug - INFO - 127.0.0.1 - - [26/Nov/2024 01:26:08] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-26 01:26:08,322 - root - INFO - Found 27 significant genes
+2024-11-26 01:26:08,325 - root - INFO - Found 27 significant genes
+2024-11-26 01:26:08,805 - werkzeug - INFO - 127.0.0.1 - - [26/Nov/2024 01:26:08] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-26 01:26:08,812 - werkzeug - INFO - 127.0.0.1 - - [26/Nov/2024 01:26:08] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-26 01:26:11,413 - root - INFO - Found 27 significant genes
+2024-11-26 01:26:12,005 - werkzeug - INFO - 127.0.0.1 - - [26/Nov/2024 01:26:12] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-26 01:26:14,564 - werkzeug - INFO - 127.0.0.1 - - [26/Nov/2024 01:26:14] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-26 01:26:14,571 - root - INFO - Found 27 significant genes
+2024-11-26 01:26:15,033 - werkzeug - INFO - 127.0.0.1 - - [26/Nov/2024 01:26:15] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-26 01:26:17,243 - root - INFO - Found 27 significant genes
+2024-11-26 01:26:17,716 - werkzeug - INFO - 127.0.0.1 - - [26/Nov/2024 01:26:17] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-11-26 12:54:08,746 - werkzeug - INFO - 127.0.0.1 - - [26/Nov/2024 12:54:08] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-26 12:54:08,749 - werkzeug - INFO - 127.0.0.1 - - [26/Nov/2024 12:54:08] "GET /api/data HTTP/1.1" 200 -
+2024-11-26 12:54:09,423 - werkzeug - INFO - 127.0.0.1 - - [26/Nov/2024 12:54:09] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-26 12:54:09,426 - werkzeug - INFO - 127.0.0.1 - - [26/Nov/2024 12:54:09] "GET /api/data HTTP/1.1" 200 -
+2024-11-27 13:31:24,715 - werkzeug - INFO - 127.0.0.1 - - [27/Nov/2024 13:31:24] "GET /api/data HTTP/1.1" 200 -
+2024-11-27 13:31:24,715 - werkzeug - INFO - 127.0.0.1 - - [27/Nov/2024 13:31:24] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-27 13:31:25,407 - werkzeug - INFO - 127.0.0.1 - - [27/Nov/2024 13:31:25] "GET /api/expression_values HTTP/1.1" 200 -
+2024-11-27 13:31:25,414 - werkzeug - INFO - 127.0.0.1 - - [27/Nov/2024 13:31:25] "GET /api/data HTTP/1.1" 200 -
+2024-12-04 00:13:57,627 - data_processor - INFO - Initialized with data directory: /Users/macbookair/Documents/genomic-data-dashboard/data
+2024-12-04 00:13:57,628 - data_processor - INFO - R script path: /Users/macbookair/Documents/genomic-data-dashboard/src/backend/deseq2_analysis.R
+2024-12-04 00:13:57,872 - data_processor - INFO - R version: 
+2024-12-04 00:13:58,068 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-04 00:13:58,068 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-12-04 00:18:29,376 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2024 00:18:29] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-12-04 00:18:29,378 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2024 00:18:29] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-12-04 00:18:29,392 - root - INFO - Found 27 significant genes
+2024-12-04 00:18:29,397 - root - INFO - Found 27 significant genes
+2024-12-04 00:18:29,740 - root - ERROR - Failed to submit gene list: 429
+2024-12-04 00:18:29,741 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2024 00:18:29] "[35m[1mPOST /api/enrichr_full_analysis HTTP/1.1[0m" 500 -
+2024-12-04 00:18:30,095 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2024 00:18:30] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-12-04 00:34:27,553 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2024 00:34:27] "GET /api/deseq2 HTTP/1.1" 200 -
+2024-12-04 00:34:27,559 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2024 00:34:27] "GET /api/deseq2 HTTP/1.1" 200 -
+2024-12-04 00:34:35,841 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2024 00:34:35] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-12-04 00:34:35,846 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2024 00:34:35] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-12-04 00:34:35,860 - root - INFO - Found 27 significant genes
+2024-12-04 00:34:35,867 - root - INFO - Found 27 significant genes
+2024-12-04 00:34:36,141 - root - ERROR - Failed to submit gene list: 429
+2024-12-04 00:34:36,142 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2024 00:34:36] "[35m[1mPOST /api/enrichr_full_analysis HTTP/1.1[0m" 500 -
+2024-12-04 00:34:36,476 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2024 00:34:36] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-12-04 00:34:48,823 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2024 00:34:48] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-12-04 00:34:48,830 - root - INFO - Found 27 significant genes
+2024-12-04 00:34:49,394 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2024 00:34:49] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-12-04 00:34:57,173 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2024 00:34:57] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-12-04 00:34:57,182 - root - INFO - Found 27 significant genes
+2024-12-04 00:34:57,776 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2024 00:34:57] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-12-04 11:59:09,870 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2024 11:59:09] "GET /api/expression_values HTTP/1.1" 200 -
+2024-12-04 11:59:09,872 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2024 11:59:09] "GET /api/data HTTP/1.1" 200 -
+2024-12-04 11:59:10,653 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2024 11:59:10] "GET /api/expression_values HTTP/1.1" 200 -
+2024-12-04 11:59:10,657 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2024 11:59:10] "GET /api/data HTTP/1.1" 200 -
+2024-12-04 11:59:23,559 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-12-04 11:59:23,585 - root - INFO - Filtered data shape: (500, 60)
+2024-12-04 11:59:23,662 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2024 11:59:23] "GET /api/clustering HTTP/1.1" 200 -
+2024-12-04 11:59:23,891 - root - INFO - Loaded expression data shape: (20098, 60)
+2024-12-04 11:59:23,903 - root - INFO - Filtered data shape: (500, 60)
+2024-12-04 11:59:23,928 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2024 11:59:23] "GET /api/clustering HTTP/1.1" 200 -
+2024-12-04 11:59:40,872 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2024 11:59:40] "GET /api/top-expressed?top_n=10 HTTP/1.1" 200 -
+2024-12-04 11:59:40,883 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2024 11:59:40] "GET /api/top-expressed?top_n=10 HTTP/1.1" 200 -
+2024-12-04 11:59:53,327 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2024 11:59:53] "GET /api/top-expressed?top_n=20 HTTP/1.1" 200 -
+2024-12-04 11:59:55,845 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2024 11:59:55] "GET /api/deseq2 HTTP/1.1" 200 -
+2024-12-04 11:59:55,855 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2024 11:59:55] "GET /api/deseq2 HTTP/1.1" 200 -
+2024-12-04 12:00:02,165 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2024 12:00:02] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-12-04 12:00:02,168 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2024 12:00:02] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-12-04 12:00:02,179 - root - INFO - Found 27 significant genes
+2024-12-04 12:00:02,185 - root - INFO - Found 27 significant genes
+2024-12-04 12:00:02,822 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2024 12:00:02] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-12-04 12:00:02,824 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2024 12:00:02] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-12-04 12:00:13,855 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2024 12:00:13] "OPTIONS /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-12-04 12:00:13,860 - root - INFO - Found 27 significant genes
+2024-12-04 12:00:14,530 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2024 12:00:14] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-12-04 12:00:18,128 - root - INFO - Found 27 significant genes
+2024-12-04 12:00:18,684 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2024 12:00:18] "POST /api/enrichr_full_analysis HTTP/1.1" 200 -
+2024-12-06 14:58:00,396 - werkzeug - INFO - 127.0.0.1 - - [06/Dec/2024 14:58:00] "GET /api/data HTTP/1.1" 200 -
+2024-12-06 14:58:00,848 - werkzeug - INFO - 127.0.0.1 - - [06/Dec/2024 14:58:00] "GET /api/expression_values HTTP/1.1" 200 -
+2024-12-06 14:58:01,548 - werkzeug - INFO - 127.0.0.1 - - [06/Dec/2024 14:58:01] "GET /api/expression_values HTTP/1.1" 200 -
+2024-12-06 14:58:01,553 - werkzeug - INFO - 127.0.0.1 - - [06/Dec/2024 14:58:01] "GET /api/data HTTP/1.1" 200 -
