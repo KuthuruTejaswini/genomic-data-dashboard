@@ -2,27 +2,11 @@
 
 A comprehensive web application for analyzing and visualizing genomic data, featuring DESeq2 integration, interactive visualizations, and connections to major genomic analysis tools.
 
-## Dashboard Views
+## Dashboard View
 
 ### Main Dashboard
 <img src="./screenshots/Dashboard-home.png" alt="Dashboard Home" width="700"/>
 The main dashboard provides quick access to all analysis features and tools.
-
-### Gene Expression Table
-<img src="./screenshots/Gene-Expression-Table.png" alt="Gene Expression Table" width="700"/>
-Interactive table for viewing and filtering gene expression data, with advanced sorting and filtering capabilities.
-
-### Heatmap Clustering
-<img src="./screenshots/heatmap-view.png" alt="Heatmap View" width="700"/>
-Hierarchical clustering visualization with interactive features and customizable color schemes.
-
-### Pathway Analysis
-<img src="./screenshots/pathway-analysis.png" alt="Pathway Analysis" width="700"/>
-Analyze enriched pathways and biological processes using multiple genomic tools.
-
-### Top Expressed Genes
-<img src="./screenshots/top-expressed-genes.png" alt="Top Expressed Genes" width="700"/>
-Identify and analyze highly expressed genes with statistical significance.
 
 ## Features
 
@@ -201,6 +185,24 @@ Backend:
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
+## More Dashboard Views
+
+### Gene Expression Table
+<img src="./screenshots/Gene-Expression-Table.png" alt="Gene Expression Table" width="700"/>
+Interactive table for viewing and filtering gene expression data, with advanced sorting and filtering capabilities.
+
+### Heatmap Clustering
+<img src="./screenshots/heatmap-view.png" alt="Heatmap View" width="700"/>
+Hierarchical clustering visualization with interactive features and customizable color schemes.
+
+### Pathway Analysis
+<img src="./screenshots/pathway-analysis.png" alt="Pathway Analysis" width="700"/>
+Analyze enriched pathways and biological processes using multiple genomic tools.
+
+### Top Expressed Genes
+<img src="./screenshots/top-expressed-genes.png" alt="Top Expressed Genes" width="700"/>
+Identify and analyze highly expressed genes with statistical significance.
 
 ## License
 
