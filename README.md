@@ -68,10 +68,47 @@ The test dataset is sourced from the Gene Expression Omnibus (GEO) database, acc
 
 ## Prerequisites
 
-- Node.js 16+
+### Node.js
+- Node.js version 16 or higher required
+- npm version 8 or higher
+
+To check your Node.js version:
+```bash
+node --version
+```
+
+To upgrade Node.js using nvm:
+```bash
+# Install nvm
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash
+
+# Restart your terminal, then:
+nvm install 16
+nvm use 16
+```
+
+### Python and R Requirements
 - Python 3.x
-- R with Bioconductor
+- pip (Python package installer)
+- R 4.2.0 or higher
 - Git
+
+### R Installation Steps
+```bash
+# Ubuntu/Debian
+sudo apt update
+sudo apt install r-base r-base-dev
+
+# macOS with Homebrew
+brew install r
+
+# Install R packages
+R
+> if (!requireNamespace("BiocManager", quietly = TRUE))
+    install.packages("BiocManager")
+> BiocManager::install("DESeq2")
+> install.packages("jsonlite")
+```
 
 ## Installation
 
@@ -89,13 +126,6 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 # Install Python dependencies
 pip install -r requirements.txt
-
-# Install R packages
-R
-> if (!requireNamespace("BiocManager", quietly = TRUE))
-    install.packages("BiocManager")
-> BiocManager::install("DESeq2")
-> install.packages("jsonlite")
 ```
 
 3. Set up the frontend:
@@ -106,6 +136,7 @@ cd frontend
 # Install dependencies
 npm install
 ```
+
 ## Getting Started
 
 1. Start the backend server:
